@@ -1,0 +1,52 @@
+{
+	"id": 1002,
+	"name": {
+        "en": "Baizhi",
+        "cn": "白芷",
+        "jp": "白芷",
+        "kr": "설지"
+    },
+	"title": "Healing You'tan",
+    "rarity": 4,
+    "attribute": "Glacio",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Coordinated Attack",
+            "DMG Amplification"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthday": "September 10",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Huaxu Academy"
+    ],
+	"specialDish": "Iced Perilla",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Samantha Dakin",
+		"chinese": "Chen Tingting",
+		"japanese": "Seto Asami",
+		"korean": "Seong Ye-won"
+	},
+    "trophies": [
+        {
+            "name": "Pulse of Life",
+            "description": "Use Baizhi's Outro Skill 100 times",
+            "reward": "5 astrite"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Blooming Glory",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ]
+}

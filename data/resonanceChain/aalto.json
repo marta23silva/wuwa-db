@@ -1,0 +1,36 @@
+{
+    "id": 1001,
+    "name": "Aalto",
+    "resonanceChain": [
+        {
+            "sequenceNode": 1,
+            "name": "Trickster's Opening Show",
+            "description": "The cooldown of Resonance Skill Shift Trick is reduced by 4s."
+        },
+        {
+            "sequenceNode": 2,
+            "name": "Mistweaver's Debut",
+            "description": "\"Mist Avatar\" inherits 100% more HP from Aalto. When Aalto attacks targets taunted by the \"Mist Avatar(s)\", his ATK is increased by 15%."
+        },
+        {
+            "sequenceNode": 3,
+            "name": "Hazey Transition",
+            "description": "When Aalto's Basic Attack or Mid-air Attack passes through the \"Gate of Quandary\", 2 more bullets will be generated, dealing 50% of the DMG of Basic Attack or Mid-air Attack."
+        },
+        {
+            "sequenceNode": 4,
+            "name": "Blake Bloom for Finale",
+            "description": "The damage of Resonance Skill Mist Bullets is increased by 30%; Aalto receives 30% less damage in his Forte Circuit Mistcloak Dash state."
+        },
+        {
+            "sequenceNode": 5,
+            "name": "Applause of the Lost",
+            "description": "In the Forte Circuit Mistcloak Dash state, Aalto's Aero DMG Bonus is increased by 25% for 6s."
+        },
+        {
+            "sequenceNode": 6,
+            "name": "Broker's Secrets",
+            "description": "Resonance Liberation Flower in the Mist now additionally increases Crit. Rate by 8%. When Aalto's Heavy Attack passes through the \"Gate of Quandary\", the damage dealt is additionally increased by 50%."
+        }
+    ]
+}
