@@ -1,9 +1,11 @@
 {
   "name": "wuwa-db",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Wuthering Waves JSON data. Sources from the fandom wiki. Inspired by genshin-db.",
+  "main": "src/index.js",
+  "type": "commonjs",
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
