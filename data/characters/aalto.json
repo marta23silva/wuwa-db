@@ -46,5 +46,15 @@
             "type": "Original",
             "obtain": "Unlocked upon obtaining Resonator"
         }
-    ]
+    ],
+    "sigil": "Perceptive Eyes",
+    "images": {
+        "card": "https://static.wikia.nocookie.net/wutheringwaves/images/6/65/Aalto_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20231221174300",
+        "icon": "https://static.wikia.nocookie.net/wutheringwaves/images/5/51/Aalto_Icon.png/revision/latest?cb=20240523015427",
+        "model": "https://static.wikia.nocookie.net/wutheringwaves/images/3/3d/Aalto_Full_Sprite.png/revision/latest?cb=20240129090949",
+        "front": "https://static.wikia.nocookie.net/wutheringwaves/images/4/4b/Aalto_front.jpg/revision/latest/scale-to-width-down/1000?cb=20240128091628",
+        "sigil": "https://static.wikia.nocookie.net/wutheringwaves/images/9/9e/Item_Perceptive_Eyes.png/revision/latest?cb=20240710042705",
+        "characterSheet": "https://static.wikia.nocookie.net/wutheringwaves/images/2/23/Aalto_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240511155518",
+        "resonatorShowcase": "https://static.wikia.nocookie.net/wutheringwaves/images/2/27/Aalto_Resonator_Showcase_Still.jpg/revision/latest/scale-to-width-down/1000?cb=20240812035817"
+    }
 }

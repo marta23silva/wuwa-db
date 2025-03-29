@@ -74,5 +74,9 @@
         }
     },
     "releaseDate": "May 23, 2024",
-    "image": "https://static.wikia.nocookie.net/wutheringwaves/images/b/be/Weapon_Abyss_Surges.png/revision/latest?cb=20240606152429"
+    "images": {
+        "fullWeapon": "https://static.wikia.nocookie.net/wutheringwaves/images/b/be/Weapon_Abyss_Surges.png/revision/latest?cb=20240606152429",
+        "card": "N/A",
+        "details": "N/A"
+    }
 }
