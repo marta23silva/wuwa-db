@@ -7,6 +7,7 @@
         "kr": "설지"
     },
 	"title": "Healing You'tan",
+    "quote": "No, I cannot place my faith in it, but my anticipation stems precisely from this distrust. A claim is always verifiable before it is discredited entirely.",
     "rarity": 4,
     "attribute": "Glacio",
 	"weapon": "Rectifier",
@@ -48,5 +49,13 @@
             "type": "Original",
             "obtain": "Unlocked upon obtaining Resonator"
         }
-    ]
+    ],
+    "sigil": "You'tan",
+    "images": {
+        "card": "e/e5/Character_Baizhi_Card.jpg/revision/latest?cb=20240128125457",
+        "icon": "6/66/Baizhi_Icon.png/revision/latest?cb=20240523015334",
+        "model": "c/cc/Baizhi_Full_Sprite.png/revision/latest?cb=20240202080219",
+        "sigil": "b/be/You%27tan_Sigil.png/revision/latest?cb=20240708220603",
+        "characterSheet": "c/c0/Baizhi_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240215190153"
+    }
 }
