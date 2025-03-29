@@ -1,0 +1,67 @@
+{
+	"id": 1003,
+	"name": {
+        "en": "Brant",
+        "cn": "布兰特",
+        "jp": "ブラント",
+        "kr": "브렌트"
+    },
+	"title": "Flamebound Compass",
+    "quote": "In the face of danger and adversity, the stage is set for our grandest act!",
+    "rarity": 5,
+    "attribute": "Fusion",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Basic Attack Damage",
+            "Fusion DMG Amplification",
+            "Resonance Skill DMG Amplification"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Male",
+	"birthday": "Unknown",
+	"birthPlace": "Rinascita",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Ragunna",
+        "Troupe of Fools"
+    ],
+	"specialDish": "Purity Strength",
+	"releaseDate": "March 06, 2025",
+	"va": {
+		"english": "Hyoie O'Grady",
+		"chinese": "Moran",
+		"japanese": "Kishio Daisuke",
+		"korean": "Lee Ju-seung"
+	},
+    "trophies": [
+        {
+            "name": "O Captain! My Captain!",
+            "description": "Complete \"Sail Day, Captain\"",
+            "reward": "10 astrites"
+        },
+        {
+            "name": "Savvy?",
+            "description": "Use Brant's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "N/A",
+            "rarity": "N/A",
+            "type": "N/A",
+            "obtain": "N/A"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "2/2d/Brant_Card.png/revision/latest/scale-to-width-down/1000?cb=20241122041741",
+        "icon": "6/6d/Brant_Icon.png/revision/latest?cb=20250213184622",
+        "model": "1/1c/Brant_Full_Sprite.png/revision/latest?cb=20250310043217",
+        "sigil": "N/A",
+        "characterSheet": "4/4c/Brant_Profile_Header.jpeg/revision/latest/scale-to-width-down/1000?cb=20250111052505"
+    }
+}
