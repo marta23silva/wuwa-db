@@ -1,0 +1,60 @@
+{
+	"id": 1004,
+	"name": {
+        "en": "Calcharo",
+        "cn": "卡卡罗",
+        "jp": "カカロ",
+        "kr": "카카루"
+    },
+	"title": "Phantom Hunters",
+    "quote": "They'll make an offer we like. I'll make sure of it.",
+    "rarity": 5,
+    "attribute": "Electro",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Resonance Liberation Damage"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Male",
+	"birthday": "July 8",
+	"birthPlace": "New Federation",
+	"nation": "New Federation",
+	"affiliations": [
+        "Jinzhou",
+        "Ghost Hounds"
+    ],
+	"specialDish": "Ration Bar",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Ben Cura",
+		"chinese": "Xu Xiang",
+		"japanese": "Toshiyuki Morikawa",
+		"korean": "Park Min-gi"
+	},
+    "trophies": [
+        {
+            "name": "Shadow Boxing",
+            "description": "Use Calcharo's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "In the Shadows",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Fangs",
+    "images": {
+        "card": "e/e5/Calcharo_Card.png/revision/latest/scale-to-width-down/1000?cb=20240717222251",
+        "icon": "1/12/Calcharo_Icon.png/revision/latest?cb=20240523015359",
+        "model": "9/9c/Calcharo_Full_Sprite.png/revision/latest?cb=20240522194656",
+        "sigil": "9/9c/Fangs_Sigil.png/revision/latest?cb=20241030160719",
+        "characterSheet": "0/05/Calcharo_Profile_.jpg/revision/latest/scale-to-width-down/1000?cb=20240403130018"
+    }
+}

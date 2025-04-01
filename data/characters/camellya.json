@@ -1,0 +1,65 @@
+{
+	"id": 1004,
+	"name": {
+        "en": "Camellya",
+        "cn": "椿",
+        "jp": "ツバキ",
+        "kr": "카멜리아"
+    },
+	"title": "Sanguine Blossom",
+    "quote": "They'll make an offer we like. I'll make sure of it.",
+    "rarity": 5,
+    "attribute": "Havoc",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Concerto Efficiency",
+            "Basic Attack Damage"
+        ]
+    },
+    "class": "Artificial",
+	"gender": "Female",
+	"birthday": "December 10",
+	"birthPlace": "Unknown",
+	"nation": "The Black Shores",
+	"affiliations": [
+        "Black Shores"
+    ],
+	"specialDish": "Iced Grape Tea",
+	"releaseDate": "November 14, 2024",
+	"va": {
+		"english": "Meaghan Martin",
+		"chinese": "Liu Zhixiao",
+		"japanese": "Ise Mariya",
+		"korean": "Yu Hye-ji"
+	},
+    "trophies": [
+        {
+            "name": "Yet Another Sunrise",
+            "description": "Find Camellya in the Black Shores and talk to her.",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "Seed of the Witch",
+            "description": "Use Camellya's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "N/A",
+            "rarity": "N/A",
+            "type": "N/A",
+            "obtain": "N/A"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "8/8f/Camellya_Card.png/revision/latest/scale-to-width-down/1000?cb=20240912101744",
+        "icon": "b/bc/Camellya_Icon.png/revision/latest?cb=20241116001919",
+        "model": "d/d4/Camellya_Full_Sprite.png/revision/latest?cb=20241210024027",
+        "sigil": "N/A",
+        "characterSheet": "e/ee/Camellya_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240912101955"
+    }
+}
