@@ -1,0 +1,68 @@
+{
+	"id": 1006,
+	"name": {
+        "en": "Cantarella",
+        "cn": "坎特蕾拉",
+        "jp": "カンタレラ",
+        "kr": "칸타렐라"
+    },
+	"title": "Sea of Dreams",
+    "quote": "The sea is a mirror, it reflects the shape of your soul in it's tide.",
+    "rarity": 5,
+    "attribute": "Havoc",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Concerto Efficiency",
+            "Basic Attack Damage",
+            "Coordinated Attack",
+            "Havoc DMG Amplification",
+            "Resonance Skill DMG Amplification"
+        ]
+    },
+    "class": "Unknown",
+	"gender": "Female",
+	"birthday": "June 18",
+	"birthPlace": "Rinascita",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Fisalia Family"
+    ],
+	"specialDish": "Homemade Panini",
+	"releaseDate": "March 27, 2025",
+	"va": {
+		"english": "Alexandra Guelff",
+		"chinese": "Xiao Mi",
+		"japanese": "Nakahara Mai",
+		"korean": "Kim Yul"
+	},
+    "trophies": [
+        {
+            "name": "To Dream's Shores",
+            "description": "Complete \"A Fleeting Night's Dream.\"",
+            "reward": "10 astrites"
+        },
+        {
+            "name": "Jellyfish Locker",
+            "description": "Use Cantarella's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Hallucinative Hues",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "0/01/Cantarella_Card.png/revision/latest/scale-to-width-down/1000?cb=20250221143534",
+        "icon": "3/3e/Cantarella_Icon.png/revision/latest?cb=20250327030321",
+        "model": "b/b3/Cantarella_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250328205054",
+        "sigil": "N/A",
+        "characterSheet": "e/ef/Cantarella_Character_Sheet.png/revision/latest/scale-to-width-down/1000?cb=20250220212108"
+    }
+}

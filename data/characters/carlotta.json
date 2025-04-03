@@ -1,0 +1,70 @@
+{
+	"id": 1007,
+	"name": {
+        "en": "Carlotta",
+        "cn": "珂莱塔",
+        "jp": "カルロッタ",
+        "kr": "카를로타"
+    },
+	"title": "Crystal Remorph",
+    "quote": "Fate will lead you to me eventually, and I am merely extending my finest proposal in advance… You wouldn't refuse me, would you?",
+    "rarity": 5,
+    "attribute": "Glacio",
+	"weapon": "Pistols",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Resonance Skill Damage"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthday": "Unknown",
+	"birthPlace": "Ragunna",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Ragunna",
+        "Montelli Family"
+    ],
+	"specialDish": "Orange Espresso",
+	"releaseDate": "January 02, 2025",
+	"va": {
+		"english": "Jennifer English",
+		"chinese": "Yan Yeqiao",
+		"japanese": "Ueda Kana",
+		"korean": "Kim Soon-mi"
+	},
+    "trophies": [
+        {
+            "name": "A Rover Prepares",
+            "description": "Rehearse with Carlotta.",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "Shine On You Crazy Opal",
+            "description": "Complete \"If On a Rainy Night a Family.\"",
+            "reward": "10 astrites"
+        },
+        {
+            "name": "In the Name of Carlotta",
+            "description": "Use Carlotta's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Trendsetter",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "8/8a/Carlotta_Card.png/revision/latest/scale-to-width-down/1000?cb=20241122070709",
+        "icon": "0/06/Carlotta_Icon.png/revision/latest?cb=20250102025428",
+        "model": "d/da/Carlotta_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250103065623",
+        "sigil": "N/A",
+        "characterSheet": "2/2f/Carlotta_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20241124204849"
+    }
+}
