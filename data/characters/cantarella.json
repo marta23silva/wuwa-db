@@ -1,11 +1,6 @@
 {
 	"id": 1006,
-	"name": {
-        "en": "Cantarella",
-        "cn": "坎特蕾拉",
-        "jp": "カンタレラ",
-        "kr": "칸타렐라"
-    },
+	"name": "Cantarella",
 	"title": "Sea of Dreams",
     "quote": "The sea is a mirror, it reflects the shape of your soul in it's tide.",
     "rarity": 5,

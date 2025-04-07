@@ -1,11 +1,6 @@
 {
 	"id": 1002,
-	"name": {
-        "en": "Baizhi",
-        "cn": "白芷",
-        "jp": "白芷",
-        "kr": "설지"
-    },
+	"name": "Baizhi",
 	"title": "Healing You'tan",
     "quote": "No, I cannot place my faith in it, but my anticipation stems precisely from this distrust. A claim is always verifiable before it is discredited entirely.",
     "rarity": 4,

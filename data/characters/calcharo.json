@@ -1,11 +1,6 @@
 {
 	"id": 1004,
-	"name": {
-        "en": "Calcharo",
-        "cn": "卡卡罗",
-        "jp": "カカロ",
-        "kr": "카카루"
-    },
+	"name": "Calcharo",
 	"title": "Phantom Hunters",
     "quote": "They'll make an offer we like. I'll make sure of it.",
     "rarity": 5,

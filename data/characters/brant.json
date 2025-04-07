@@ -1,11 +1,6 @@
 {
 	"id": 1003,
-	"name": {
-        "en": "Brant",
-        "cn": "布兰特",
-        "jp": "ブラント",
-        "kr": "브렌트"
-    },
+	"name": "Brant",
 	"title": "Flamebound Compass",
     "quote": "In the face of danger and adversity, the stage is set for our grandest act!",
     "rarity": 5,

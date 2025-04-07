@@ -1,11 +1,6 @@
 {
 	"id": 1001,
-	"name": {
-        "en": "Aalto",
-        "cn": "秋水",
-        "jp": "アールト",
-        "kr": "알토"
-    },
+	"name": "Aalto",
 	"title": "Mistcloak Strike",
     "quote": "Well, if it isn't my loyal patron! What do you wish to inquire about today?",
     "rarity": 4,

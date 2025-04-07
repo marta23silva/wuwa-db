@@ -1,11 +1,6 @@
 {
 	"id": 1005,
-	"name": {
-        "en": "Camellya",
-        "cn": "椿",
-        "jp": "ツバキ",
-        "kr": "카멜리아"
-    },
+	"name": "Camellya",
 	"title": "Sanguine Blossom",
     "quote": "They'll make an offer we like. I'll make sure of it.",
     "rarity": 5,
