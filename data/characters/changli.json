@@ -1,0 +1,57 @@
+{
+	"id": 1008,
+	"name": "Changli",
+	"title": "Eternal Blaze",
+    "quote": "Eons of time on this vast land, all encapsulated in a humble game... I am fortunate to have you as my opponent.",
+    "rarity": 5,
+    "attribute": "Fusion",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Resonance Skill Damage",
+            "Fusion DMG Amplification",
+            "Resonance Liberation DMG Amplification"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Female",
+	"birthday": "June 6",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "City Hall"
+    ],
+	"specialDish": "Blazing Feather Spicy Meat",
+	"releaseDate": "July 22, 2024",
+	"va": {
+		"english": "Ashleigh Haddad",
+		"chinese": "Mufei",
+		"japanese": "Saitō Chiwa",
+		"korean": "Shin Nari"
+	},
+    "trophies": [
+        {
+            "name": "The Hand of God!",
+            "description": "Use Changli's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "N/A",
+            "rarity": "N/A",
+            "type": "N/A",
+            "obtain": "N/A"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "5/57/Changli_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20240518050557",
+        "icon": "1/19/Changli_Icon.png/revision/latest?cb=20240629210403",
+        "model": "d/d2/Changli_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20240723101836",
+        "sigil": "N/A",
+        "characterSheet": "5/5c/Changli_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240518045443"
+    }
+}

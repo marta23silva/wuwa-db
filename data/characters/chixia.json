@@ -1,0 +1,54 @@
+{
+	"id": 1009,
+	"name": "Chixia",
+	"title": "Gallant Blaze",
+    "quote": "Jinzhou Patroller, Chixia. You can always call on me if you ever find yourself in a pickle!",
+    "rarity": 4,
+    "attribute": "Fusion",
+	"weapon": "Pistols",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthday": "April 18",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Public Security Bureau"
+    ],
+	"specialDish": "Champion Hotpot",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Harriet Carmichael",
+		"chinese": "Cai Na",
+		"japanese": "Nagase Anna",
+		"korean": "Kang Eun-ae"
+	},
+    "trophies": [
+        {
+            "name": "A Gift of Flames",
+            "description": "Use Chixia's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "A Moment's Notice",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "d/da/Chixia_Card.png/revision/latest/scale-to-width-down/1000?cb=20240703175137",
+        "icon": "b/b9/Chixia_Icon.png/revision/latest?cb=20240523010958",
+        "model": "8/87/Chixia_Full_Sprite.png/revision/latest?cb=20240202080517",
+        "sigil": "N/A",
+        "characterSheet": "4/4b/Chixia_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240216130822"
+    }
+}
