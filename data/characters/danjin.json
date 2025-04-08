@@ -1,0 +1,55 @@
+{
+	"id": 1011,
+	"name": "Danjin",
+	"title": "Scarlet Shade",
+    "quote": "Wherever I go, I swear to vanquish evil, whether it's out in the daylight or hiding in the dark.",
+    "rarity": 4,
+    "attribute": "Havoc",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Havoc DMG Amplification"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthday": "August 31",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Midnight Rangers"
+    ],
+	"specialDish": "Silky Reveries",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Sophie Colquhoun",
+		"chinese": "Yi Kou Jing",
+		"japanese": "Okasaki Miho",
+		"korean": "Lee Hyunjin"
+	},
+    "trophies": [
+        {
+            "name": "Beauty and the Blade",
+            "description": "Use Danjin's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Red Jade",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Justice Served",
+    "images": {
+        "card": "1/1b/Danjin_Card_2.jpg/revision/latest/scale-to-width-down/1000?cb=20231221173838",
+        "icon": "5/5a/Danjin_Icon.png/revision/latest?cb=20240523015142",
+        "model": "4/4f/Danjin_Full_Sprite.png/revision/latest?cb=20230403035004",
+        "sigil": "6/6e/Justice_Served_Sigil.png/revision/latest?cb=20240902201034",
+        "characterSheet": "b/b5/Danjin_Sheet_Full.png/revision/latest?cb=20240522031605"
+    }
+}

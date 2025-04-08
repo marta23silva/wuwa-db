@@ -1,0 +1,52 @@
+{
+	"id": 1010,
+	"name": "Ciaccona",
+	"title": "",
+    "quote": "Off we go! May my poems light the way on your path ahead!",
+    "rarity": 5,
+    "attribute": "Aero",
+	"weapon": "Pistols",
+    "combatRoles": {
+        "roles": [
+        ]
+    },
+    "class": "",
+	"gender": "Female",
+	"birthday": "",
+	"birthPlace": "Rinascita",
+	"nation": "",
+	"affiliations": [
+
+    ],
+	"specialDish": "",
+	"releaseDate": "",
+	"va": {
+		"english": "",
+		"chinese": "",
+		"japanese": "Hasegawa Ikumi",
+		"korean": ""
+	},
+    "trophies": [
+        {
+            "name": "",
+            "description": "",
+            "reward": ""
+        }
+    ],
+    "outfits": [
+        {
+            "name": "",
+            "rarity": "",
+            "type": "",
+            "obtain": ""
+        }
+    ],
+    "sigil": "",
+    "images": {
+        "card": "6/68/Ciaccona_Card.png/revision/latest/scale-to-width-down/1000?cb=20250403171349",
+        "icon": "e/e9/Ciaccona_Icon.png/revision/latest?cb=20250403190812",
+        "model": "",
+        "sigil": "",
+        "characterSheet": "4/43/Ciaccona_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20250403104604"
+    }
+}
