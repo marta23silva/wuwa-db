@@ -1,0 +1,56 @@
+{
+	"id": 1015,
+	"name": "Jiyan",
+	"title": "Windborne Rider",
+    "quote": "I have never regretted to brave the long night.",
+    "rarity": 5,
+    "attribute": "Aero",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Heavy Attack Damage",
+            "Traction"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Male",
+	"birthday": "December 14",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Midnight Rangers"
+    ],
+	"specialDish": "Yesterday in Jinzhou",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Alex Jordan",
+		"chinese": "Sun Ye",
+		"japanese": "Ono Yūki",
+		"korean": "Nam Doh-hyeong"
+	},
+    "trophies": [
+        {
+            "name": "Transformation of Rain Loong",
+            "description": "Use Jiyan's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Heavy is the Burden",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Qingloong",
+    "images": {
+        "card": "0/0d/Jiyan_Card.png/revision/latest/scale-to-width-down/1000?cb=20240509102627",
+        "icon": "5/59/Jiyan_Icon.png/revision/latest?cb=20240523015123",
+        "model": "5/56/Jiyan_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20230328145005",
+        "sigil": "2/28/Qingloong_Sigil.png/revision/latest?cb=20240902193841",
+        "characterSheet": "e/ee/Jiyan_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240511132025"
+    }
+}

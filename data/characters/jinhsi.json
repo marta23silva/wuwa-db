@@ -1,0 +1,62 @@
+{
+	"id": 1014,
+	"name": "Jinhsi",
+	"title": "Thawborn Renewal",
+    "quote": "There's still much to be done. Please rest assured, I am here to guide you through it.",
+    "rarity": 5,
+    "attribute": "Spectro",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Resonance Skill Damage"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "March 6",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "City Hall",
+        "Mt. Firmament"
+    ],
+	"specialDish": "Spring Pastry",
+	"releaseDate": "June 28, 2024",
+	"va": {
+		"english": "Anna Devlin",
+		"chinese": "Jiang Yue",
+		"japanese": "Aoyama Yoshino",
+		"korean": "Park Hajin"
+	},
+    "trophies": [
+        {
+            "name": "Jué Is With Me",
+            "description": "Use Jinhsi's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Abyssal Ascension",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        },
+        {
+            "name": "Peach Blossom",
+            "rarity": 5,
+            "type": "Premium",
+            "obtain": "Outfit Store"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "a/a9/Jinhsi_Card.png/revision/latest/scale-to-width-down/1000?cb=20240517072857",
+        "icon": "3/3c/Jinhsi_Icon.png/revision/latest?cb=20240628171752",
+        "model": "b/b2/Jinhsi_Full_Sprite.png/revision/latest?cb=20240627024122",
+        "sigil": "N/A",
+        "characterSheet": "4/45/Jinhsi_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240517073124"
+    }
+}
