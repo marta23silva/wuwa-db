@@ -1,0 +1,54 @@
+{
+	"id": 1012,
+	"name": "Encore",
+	"title": "Wooly–counting Game",
+    "quote": "A long, long time ago... Cosmos told Encore about a fun spot! Come on! Let's go check it out!",
+    "rarity": 5,
+    "attribute": "Fusion",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Basic Attack Damage"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "March 21",
+	"birthPlace": "New Federation",
+	"nation": "The Black Shores",
+	"affiliations": [
+        "Black Shores"
+    ],
+	"specialDish": "Baa Baa Crisp",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Carina Reeves",
+		"chinese": "Xiao Sibai",
+		"japanese": "Ibuki Chikano",
+		"korean": "Serena Lee"
+	},
+    "trophies": [
+        {
+            "name": "Encore's Wonderous Adventures",
+            "description": "Use Encore's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Wooly Captain",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Fairytale",
+    "images": {
+        "card": "6/6e/Encore_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20240511130908",
+        "icon": "6/64/Encore_Icon.png/revision/latest?cb=20240523015109",
+        "model": "f/f7/Encore_Full_Sprite.png/revision/latest?cb=20240421223946",
+        "sigil": "0/04/Fairytale_Sigil.png/revision/latest?cb=20240723203758",
+        "characterSheet": "5/5f/Encore_full_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240425144333"
+    }
+}

@@ -1,0 +1,57 @@
+{
+	"id": 1013,
+	"name": "Jianxin",
+	"title": "Cleansing Reflections",
+    "quote": "Release the wants, and the mind quiets. Cleanse the thoughts, and the soul clears.",
+    "rarity": 5,
+    "attribute": "Aero",
+	"weapon": "Gauntlets",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Heavy Attack Damage",
+            "Traction",
+            "Resonance Liberation DMG Amplification"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Female",
+	"birthday": "April 6",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Fengyiquan"
+    ],
+	"specialDish": "Lotus Seed Soup",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Ioanna Kimbook",
+		"chinese": "Yu Tou",
+		"japanese": "Anzai Chika",
+		"korean": "Lee Eunjo"
+	},
+    "trophies": [
+        {
+            "name": "Clear as a Mirror",
+            "description": "Use Encore's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "One with Everything",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Mirrors of Clarity",
+    "images": {
+        "card": "8/8a/Jianxin_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20240206132017",
+        "icon": "e/e5/Jianxin_Icon.png/revision/latest?cb=20240523015413",
+        "model": "d/d4/Jianxin_Full_Sprite.png/revision/latest?cb=20240518003041",
+        "sigil": "7/7b/Mirrors_of_Clarity_Sigil.png/revision/latest?cb=20240902195341",
+        "characterSheet": "f/fc/GFoIC1pbkAAJZi2.jpg/revision/latest/scale-to-width-down/1000?cb=20240207044917"
+    }
+}
