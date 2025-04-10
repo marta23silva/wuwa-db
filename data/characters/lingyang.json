@@ -1,0 +1,54 @@
+{
+	"id": 1016,
+	"name": "Lingyang",
+	"title": "Frosty Gusto",
+    "quote": "Awoo—Lion up! Victory is mine at this year's Greens-plucking Tournament!",
+    "rarity": 5,
+    "attribute": "Glacio",
+	"weapon": "Gauntlets",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Male",
+	"birthday": "August 8",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Liondance Troupe"
+    ],
+	"specialDish": "Liondance Companion",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Aleksander Varadian",
+		"chinese": "Jinli",
+		"japanese": "Natsuki Hanae",
+		"korean": "Lee Sangho"
+	},
+    "trophies": [
+        {
+            "name": "Good Omen",
+            "description": "Use Lingyang's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "N/A",
+            "rarity": "N/A",
+            "type": "N/A",
+            "obtain": "N/A"
+        }
+    ],
+    "sigil": "Fiery Dance",
+    "images": {
+        "card": "9/98/Lingyang_Card.png/revision/latest/scale-to-width-down/1000?cb=20240503051937",
+        "icon": "e/e6/Lingyang_Icon.png/revision/latest?cb=20240523015345",
+        "model": "3/36/Lingyang_Full_Sprite.png/revision/latest?cb=20240502113913",
+        "sigil": "b/b2/Fiery_Dance_Sigil.png/revision/latest?cb=20241030163551",
+        "characterSheet": "a/a3/Ling_Yang_Sheet_%28Full%29.jpg/revision/latest/scale-to-width-down/1000?cb=20240511135201"
+    }
+}

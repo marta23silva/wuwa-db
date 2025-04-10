@@ -1,0 +1,56 @@
+{
+	"id": 1017,
+	"name": "Lumi",
+	"title": "Kaleido Refraction",
+    "quote": "Hehe, busy days, but it feels great to be needed... I should keep it up!",
+    "rarity": 4,
+    "attribute": "Electro",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Basic Attack Damage",
+            "Resonance Skill DMG Amplification"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "Unknown",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Yuezhou",
+        "Lollo Logistics"
+    ],
+	"specialDish": "N/A",
+	"releaseDate": "December 12, 2024",
+	"va": {
+		"english": "Emily Cass",
+		"chinese": "Jing Chen",
+		"japanese": "Suzuki Minori",
+		"korean": "Jeong Ha-eun"
+	},
+    "trophies": [
+        {
+            "name": "Lumi's Delivery Service",
+            "description": "Use Lumi's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "N/A",
+            "rarity": "N/A",
+            "type": "N/A",
+            "obtain": "N/A"
+        }
+    ],
+    "sigil": "",
+    "images": {
+        "card": "e/ee/Lumi_Card.jpg/revision/latest?cb=20240913173421",
+        "icon": "5/5e/Lumi_Icon.png/revision/latest?cb=20241116002925",
+        "model": "4/4f/Lumi_Full_Sprite.png/revision/latest?cb=202412150245482113913",
+        "sigil": "N/A",
+        "characterSheet": "a/a1/Lumi_Character_Sheet.png/revision/latest/scale-to-width-down/1000?cb=20240913224011"
+    }
+}
