@@ -1,8 +1,10 @@
 const fs = require("fs");
+//const fs = require("fs/promises"); /* For async calls */
 const path = require("path");
 const { WUTHERING_WAVES_IMAGE_BASE_URL } = require("./constants");
 
-function loadCharacterData() {
+/* Loads all character files */
+function loadAllCharacterData() {
   const data = {};
   const dirPath = path.join(__dirname, "..", "data", "characters");
 
@@ -14,7 +16,7 @@ function loadCharacterData() {
         const charName = file.replace(".json", "").toLowerCase();
         const filePath = path.join(dirPath, file);
         const rawData = fs.readFileSync(filePath, "utf8");
-        character = JSON.parse(rawData);
+        let character = JSON.parse(rawData);
 
         if(character.images) {
           Object.keys(character.images).forEach(key => {
@@ -29,11 +31,22 @@ function loadCharacterData() {
   } catch (error) {
     console.error("Error loading character data:", error);
   }
-
   return data;
 }
 
-// Load data once at startup
-const characterData = loadCharacterData();
+/* Loads only the requested character */
+/*
+async function loadCharacterData(characterName) {
+  const dirPath = path.join(__dirname, "..", "data", "characters", `${characterName}.json`);
+  const rawData = await fs.readFile(dirPath, "utf8");
+  return JSON.parse(rawData);;
+}
+  */
 
-module.exports = characterData;
+const allCharacterData  = loadAllCharacterData();
+/* const characterData     = loadCharacterData(); */
+
+module.exports = {
+  allCharacterData,
+  /* characterData */
+};
