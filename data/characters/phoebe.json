@@ -1,0 +1,56 @@
+{
+	"id": 1019,
+	"name": "Phoebe",
+	"title": "Graceful Luminescence",
+    "quote": "Praise the Sentinel. May They guide you to compassion and enlightenment.",
+    "rarity": 5,
+    "attribute": "Spectro",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Concerto Efficiency",
+            "Spectro Frazzle"
+        ]
+    },
+    "class": "Unknown",
+	"gender": "Female",
+	"birthday": "Unknown",
+	"birthPlace": "Rinascita",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Ragunna",
+        "Order of the Deep"
+    ],
+	"specialDish": "N/A",
+	"releaseDate": "February 13, 2025",
+	"va": {
+		"english": "Rebecca LaChance",
+		"chinese": "Fu Tingyun",
+		"japanese": "Hondo Kaede",
+		"korean": "Lee Bo-yong"
+	},
+    "trophies": [
+        {
+            "name": "Blessing of Light",
+            "description": "Use Phoebe's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "N/A",
+            "rarity": "N/A",
+            "type": "N/A",
+            "obtain": "N/A"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "5/54/Phoebe_Card.png/revision/latest/scale-to-width-down/1000?cb=20241122041938",
+        "icon": "7/7a/Phoebe_Icon.png/revision/latest?cb=20250213184424",
+        "model": "c/c5/Phoebe_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250213050527",
+        "sigil": "N/A",
+        "characterSheet": "a/a4/Phoebe_Profile_Header.jpeg/revision/latest/scale-to-width-down/1000?cb=20250111052320"
+    }
+}

@@ -1,0 +1,57 @@
+{
+	"id": 1018,
+	"name": "Mortefi",
+	"title": "Dragon's Breath",
+    "quote": "Fine, since you've done this much for me... Go ahead, tell me the wildest inventions you can think of, and watch me make them happen for you.",
+    "rarity": 4,
+    "attribute": "Fusion",
+	"weapon": "Pistols",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Resonance Liberation Damage",
+            "Coordinated Attack",
+            "Heavy Attack DMG Amplification"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Male",
+	"birthday": "November 6",
+	"birthPlace": "New Federation",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Huaxu Academy"
+    ],
+	"specialDish": "Smoked Pigeon",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Joseph May",
+		"chinese": "Liu Yijia",
+		"japanese": "Miura Katsuyuki",
+		"korean": "Kim Daol"
+	},
+    "trophies": [
+        {
+            "name": "The Next Melody",
+            "description": "Use Mortefi's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Fiery Grace",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Crimson Fury",
+    "images": {
+        "card": "c/c8/Mortefi.jpg/revision/latest/scale-to-width-down/1000?cb=20231221180030",
+        "icon": "2/28/Mortefi_Icon.png/revision/latest?cb=20240523015259",
+        "model": "9/93/Mortefi_Illutration.png/revision/latest?cb=20240202080638",
+        "sigil": "a/ad/Mortefi_Sigil.png/revision/latest?cb=20240522024910",
+        "characterSheet": "b/bb/Mortefi_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240511155612"
+    }
+}
