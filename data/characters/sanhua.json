@@ -1,0 +1,61 @@
+{
+	"id": 1023,
+	"name": "Sanhua",
+	"title": "Snow Waltz",
+    "quote": "Please don't stay too far away from me. I am confident to not let you get harmed in the slightest.",
+    "rarity": 4,
+    "attribute": "Glacio",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Basic Attack DMG Amplification"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthday": "January 20",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "City Hall"
+    ],
+	"specialDish": "Crystal Clear Buns",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Jennifer Armour",
+		"chinese": "Song Yuanyuan",
+		"japanese": "Matsuda Risae",
+		"korean": "Yooyoung"
+	},
+    "trophies": [
+        {
+            "name": "Flurry of Flowers",
+            "description": "Use Sanhua's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Asura's Struggle",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        },
+        {
+            "name": "Exorcistic Adjuration",
+            "rarity": 4,
+            "type": "Signature",
+            "obtain": "Dances For Spring's Return [Event]"
+        }
+    ],
+    "sigil": "Falling Snow",
+    "images": {
+        "card": "9/95/Sanhua.jpg/revision/latest?cb=20231221175009",
+        "icon": "5/54/Sanhua_Icon.png/revision/latest?cb=20240523015219",
+        "model": "9/94/Sanhua_Full_Sprite.png/revision/latest?cb=20240218224717",
+        "sigil": "b/b8/Falling_Snow_Sigil.png/revision/latest?cb=20240902202529",
+        "characterSheet": "0/00/Sanhua_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240511155355"
+    }
+}

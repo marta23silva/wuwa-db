@@ -1,0 +1,63 @@
+{
+	"id": 1020,
+	"name": "Roccia",
+	"title": "Stage in the Box",
+    "quote": "Hello. Got anything you don't need? Pero's stomach is open for business.",
+    "rarity": 5,
+    "attribute": "Havoc",
+	"weapon": "Gauntlets",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Heavy Attack Damage",
+            "Traction",
+            "Havoc DMG Amplification",
+            "Basic Attack DMG Amplification"
+        ]
+    },
+    "class": "Acquired",
+	"gender": "Female",
+	"birthday": "January 31st",
+	"birthPlace": "Rinascita",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Ragunna",
+        "Troupe of Fools"
+    ],
+	"specialDish": "Multi-Scoop Ice Cream",
+	"releaseDate": "January 23, 2025",
+	"va": {
+		"english": "Holly Earl",
+		"chinese": "Shen Huasang",
+		"japanese": "Kohara Konomi",
+		"korean": "Jang Mi"
+	},
+    "trophies": [
+        {
+            "name": "Starlight Over the Harbor",
+            "description": "Complete \"Starry is the Night.\"",
+            "reward": "10 astrites"
+        },
+        {
+            "name": "Curtain Call",
+            "description": "Use Roccia's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "N/A",
+            "rarity": "N/A",
+            "type": "N/A",
+            "obtain": "N/A"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "e/ea/Roccia_Card.png/revision/latest/scale-to-width-down/1000?cb=20241122070750",
+        "icon": "5/5f/Roccia_Icon.png/revision/latest?cb=20250102034114",
+        "model": "c/c6/Roccia_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250123135546",
+        "sigil": "N/A",
+        "characterSheet": "2/2f/Roccia_Character_Sheet.jpeg/revision/latest/scale-to-width-down/1000?cb=20241125044641"
+    }
+}
