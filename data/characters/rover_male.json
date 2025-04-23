@@ -1,0 +1,59 @@
+{
+	"id": 1022,
+	"name": "Rover",
+	"title": "Lord Arbiter",
+    "quote": "Is this the beginning of a new journey? Brimming with novel sounds, and untold stories...",
+    "rarity": 5,
+    "attribute": "Multi",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Stagnation",
+            "Spectro Frazzle",
+            "Main Damage Dealer",
+            "Support and Healer",
+            "Resonance Skill Damage",
+            "Aero Erosion"
+        ]
+    },
+    "class": "Unknown",
+	"gender": "Male",
+	"birthday": "Player's choice",
+	"birthPlace": "Unknown",
+	"nation": "Unknown",
+	"affiliations": [
+        "Black Shores"
+    ],
+	"specialDish": "N/A",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Chase Brown",
+		"chinese": "Ma Yang",
+		"japanese": "Masuda Toshiki",
+		"korean": "Kim Sinwoo"
+	},
+    "trophies": [
+        {
+            "name": "Silent Mode",
+            "description": "Use Rover: Spectro's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Wandering Traveler",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "8/8f/MRover_2025-01-01.jpg/revision/latest/scale-to-width-down/1000?cb=20250101183833",
+        "icon": "e/ec/Rover_Male_Icon.png/revision/latest?cb=20240525065917",
+        "model": "0/05/Male_Rover_Model.png/revision/latest?cb=20240129103349",
+        "sigil": "N/A",
+        "characterSheet": "1/1c/Character_Rover_Male_Introduction.png/revision/latest/scale-to-width-down/1000?cb=20220618053959"
+    }
+}

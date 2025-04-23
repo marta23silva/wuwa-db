@@ -1,0 +1,59 @@
+{
+	"id": 1021,
+	"name": "Rover",
+	"title": "Lady Arbiter",
+    "quote": "Is this the beginning of a new journey? Brimming with novel sounds, and untold stories...",
+    "rarity": 5,
+    "attribute": "Multi",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Stagnation",
+            "Spectro Frazzle",
+            "Main Damage Dealer",
+            "Support and Healer",
+            "Resonance Skill Damage",
+            "Aero Erosion"
+        ]
+    },
+    "class": "Unknown",
+	"gender": "Female",
+	"birthday": "Player's choice",
+	"birthPlace": "Unknown",
+	"nation": "Unknown",
+	"affiliations": [
+        "Black Shores"
+    ],
+	"specialDish": "N/A",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Jane Jackson",
+		"chinese": "Guiniang",
+		"japanese": "Tanaka Minami",
+		"korean": "Song Harim"
+	},
+    "trophies": [
+        {
+            "name": "Silent Mode",
+            "description": "Use Rover: Spectro's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Wandering Traveler",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "N/A",
+    "images": {
+        "card": "4/40/FRover_2025-01-01.jpg/revision/latest/scale-to-width-down/1000?cb=20250101183752",
+        "icon": "e/e7/Female_Rover_Icon.png/revision/latest?cb=20240525052203",
+        "model": "a/ad/Female_Rover_Model.png/revision/latest?cb=20240129103358",
+        "sigil": "N/A",
+        "characterSheet": "6/60/Character_Rover_Female_Introduction.png/revision/latest/scale-to-width-down/1000?cb=20220618053928"
+    }
+}
