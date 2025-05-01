@@ -1,0 +1,53 @@
+{
+	"id": 1033,
+	"name": "Zhezhi",
+	"title": "Enchanted Brush",
+    "quote": "What I wanted to say is, the sunlight on you right now is so beautiful. Can I... paint you?",
+    "rarity": 5,
+    "attribute": "Glacio",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Basic Attack Damage",
+            "Coordinated Attack",
+            "Glacio DMG Amplification",
+            "Resonance Skill DMG Amplification"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "December 31",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou"
+    ],
+	"specialDish": "Sweet Stuffed Flatbread",
+	"releaseDate": "August 15, 2024",
+	"va": {
+		"english": "Shin-Fei Chen",
+		"chinese": "Miao Zi",
+		"japanese": "Makino Yui",
+		"korean": "Kim Ha-ru"
+	},
+    "trophies": [
+        {
+            "name": "A Sight To Remember",
+            "description": "Use Zhezhi's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "Colors Revived",
+            "description": "Clear Ashened Gallery.",
+            "reward": "10 astrites"
+        }
+    ],
+    "outfits": [],
+    "images": {
+        "card": "f/f0/Zhezhi_Card.png/revision/latest/scale-to-width-down/1000?cb=20240708201004",
+        "icon": "0/06/Zhezhi_Icon.png/revision/latest?cb=20240812052258",
+        "model": "8/81/Zhezhi_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20240813044422",
+        "characterSheet": "3/39/Zhezhi_Character_Sheet_%28Full%29.png/revision/latest/scale-to-width-down/1000?cb=20240712033314"
+    }
+}
