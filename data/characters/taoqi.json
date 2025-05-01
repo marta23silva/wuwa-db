@@ -1,0 +1,56 @@
+{
+	"id": 1025,
+	"name": "Taoqi",
+	"title": "Blossom of Slashes",
+    "quote": "Phew... All set. Time for a little break.",
+    "rarity": 4,
+    "attribute": "Havoc",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Resonance Liberation Damage",
+            "Resonance Skill DMG Amplification"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Female",
+	"birthday": "February 25",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Ministry of Development"
+    ],
+	"specialDish": "Floral Porridge",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Clare Louise Connolly",
+		"chinese": "KIYO",
+		"japanese": "Yōmiya Hina",
+		"korean": "Yi Sae-ah"
+	},
+    "trophies": [
+        {
+            "name": "Everlasting Blossoms",
+            "description": "Use Taoqi's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "A Quiet Moment",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Napping Time",
+    "images": {
+        "card": "0/0b/Taoqi.jpg/revision/latest/scale-to-width-down/1000?cb=20231219185115",
+        "icon": "3/3d/Taoqi_Icon.png/revision/latest?cb=20240523015200",
+        "model": "2/25/Taoqi_Model.png/revision/latest?cb=20240202080916",
+        "sigil": "7/79/Napping_Time_Sigil.png/revision/latest?cb=20241030154459",
+        "characterSheet": "a/ae/Taoqi_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20231219191152"
+    }
+}
