@@ -43,20 +43,11 @@
             "reward": "5 astrites"
         }
     ],
-    "outfits": [
-        {
-            "name": "N/A",
-            "rarity": "N/A",
-            "type": "N/A",
-            "obtain": "N/A"
-        }
-    ],
-    "sigil": "N/A",
+    "outfits": [],
     "images": {
         "card": "2/2d/Brant_Card.png/revision/latest/scale-to-width-down/1000?cb=20241122041741",
         "icon": "6/6d/Brant_Icon.png/revision/latest?cb=20250213184622",
         "model": "1/1c/Brant_Full_Sprite.png/revision/latest?cb=20250310043217",
-        "sigil": "N/A",
         "characterSheet": "4/4c/Brant_Profile_Header.jpeg/revision/latest/scale-to-width-down/1000?cb=20250111052505"
     }
 }

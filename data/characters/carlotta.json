@@ -54,12 +54,10 @@
             "obtain": "Unlocked upon obtaining Resonator"
         }
     ],
-    "sigil": "N/A",
     "images": {
         "card": "8/8a/Carlotta_Card.png/revision/latest/scale-to-width-down/1000?cb=20241122070709",
         "icon": "0/06/Carlotta_Icon.png/revision/latest?cb=20250102025428",
         "model": "d/da/Carlotta_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250103065623",
-        "sigil": "N/A",
         "characterSheet": "2/2f/Carlotta_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20241124204849"
     }
 }

@@ -48,12 +48,10 @@
             "obtain": "Unlocked upon obtaining Resonator"
         }
     ],
-    "sigil": "N/A",
     "images": {
         "card": "8/8f/MRover_2025-01-01.jpg/revision/latest/scale-to-width-down/1000?cb=20250101183833",
         "icon": "e/ec/Rover_Male_Icon.png/revision/latest?cb=20240525065917",
         "model": "0/05/Male_Rover_Model.png/revision/latest?cb=20240129103349",
-        "sigil": "N/A",
         "characterSheet": "1/1c/Character_Rover_Male_Introduction.png/revision/latest/scale-to-width-down/1000?cb=20220618053959"
     }
 }

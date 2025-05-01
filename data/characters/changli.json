@@ -38,20 +38,11 @@
             "reward": "5 astrites"
         }
     ],
-    "outfits": [
-        {
-            "name": "N/A",
-            "rarity": "N/A",
-            "type": "N/A",
-            "obtain": "N/A"
-        }
-    ],
-    "sigil": "N/A",
+    "outfits": [],
     "images": {
         "card": "5/57/Changli_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20240518050557",
         "icon": "1/19/Changli_Icon.png/revision/latest?cb=20240629210403",
         "model": "d/d2/Changli_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20240723101836",
-        "sigil": "N/A",
         "characterSheet": "5/5c/Changli_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240518045443"
     }
 }

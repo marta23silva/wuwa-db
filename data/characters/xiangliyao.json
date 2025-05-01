@@ -49,12 +49,10 @@
             "obtain": "Unlocked upon obtaining Resonator"
         }
     ],
-    "sigil": "N/A",
     "images": {
         "card": "e/e9/Xiangli_Yao_Card.png/revision/latest/scale-to-width-down/1000?cb=20240708200915",
         "icon": "c/cf/Xiangli_Yao_Icon.png/revision/latest?cb=20240812144653",
         "model": "c/c8/Xiangli_Yao_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20240904063531",
-        "sigil": "N/A",
         "characterSheet": "6/63/Xiangli_Yao_Character_Sheet_%28Full%29.png/revision/latest/scale-to-width-down/1000?cb=20240708202006"
     }
 }

@@ -13,7 +13,7 @@
             "DMG Amplification"
         ]
     },
-    "class": "N/A",
+    "class": "Unknown",
 	"gender": "Female",
 	"birthday": "February 27",
 	"birthPlace": "The Black Shores",
@@ -44,12 +44,10 @@
             "obtain": "Unlocked upon obtaining Resonator"
         }
     ],
-    "sigil": "N/A",
     "images": {
         "card": "8/85/Shorekeeper_Card.png/revision/latest/scale-to-width-down/1000?cb=20240813134043",
         "icon": "1/14/Shorekeeper_Icon.png/revision/latest?cb=20240929033648",
         "model": "8/8c/Shorekeeper_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20241001031343",
-        "sigil": "N/A",
         "characterSheet": "4/41/Shorekeeper_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240804154819"
     }
 }

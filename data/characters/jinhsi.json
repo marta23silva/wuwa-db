@@ -51,12 +51,10 @@
             "obtain": "Outfit Store"
         }
     ],
-    "sigil": "N/A",
     "images": {
         "card": "a/a9/Jinhsi_Card.png/revision/latest/scale-to-width-down/1000?cb=20240517072857",
         "icon": "3/3c/Jinhsi_Icon.png/revision/latest?cb=20240628171752",
         "model": "b/b2/Jinhsi_Full_Sprite.png/revision/latest?cb=20240627024122",
-        "sigil": "N/A",
         "characterSheet": "4/45/Jinhsi_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240517073124"
     }
 }

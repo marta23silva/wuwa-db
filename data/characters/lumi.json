@@ -22,7 +22,7 @@
         "Yuezhou",
         "Lollo Logistics"
     ],
-	"specialDish": "N/A",
+	"specialDish": "Yuezhou Spicy Meat Noodles",
 	"releaseDate": "December 12, 2024",
 	"va": {
 		"english": "Emily Cass",
@@ -37,20 +37,11 @@
             "reward": "5 astrites"
         }
     ],
-    "outfits": [
-        {
-            "name": "N/A",
-            "rarity": "N/A",
-            "type": "N/A",
-            "obtain": "N/A"
-        }
-    ],
-    "sigil": "",
+    "outfits": [],
     "images": {
         "card": "e/ee/Lumi_Card.jpg/revision/latest?cb=20240913173421",
         "icon": "5/5e/Lumi_Icon.png/revision/latest?cb=20241116002925",
         "model": "4/4f/Lumi_Full_Sprite.png/revision/latest?cb=202412150245482113913",
-        "sigil": "N/A",
         "characterSheet": "a/a1/Lumi_Character_Sheet.png/revision/latest/scale-to-width-down/1000?cb=20240913224011"
     }
 }

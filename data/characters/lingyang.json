@@ -35,14 +35,7 @@
             "reward": "5 astrites"
         }
     ],
-    "outfits": [
-        {
-            "name": "N/A",
-            "rarity": "N/A",
-            "type": "N/A",
-            "obtain": "N/A"
-        }
-    ],
+    "outfits": [],
     "sigil": "Fiery Dance",
     "images": {
         "card": "9/98/Lingyang_Card.png/revision/latest/scale-to-width-down/1000?cb=20240503051937",
