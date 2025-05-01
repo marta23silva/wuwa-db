@@ -43,18 +43,16 @@
     ],
     "outfits": [
         {
-            "name": "N/A",
-            "rarity": "N/A",
-            "type": "N/A",
-            "obtain": "N/A"
+            "name": "Sanguine Blossom",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
         }
     ],
-    "sigil": "N/A",
     "images": {
         "card": "8/8f/Camellya_Card.png/revision/latest/scale-to-width-down/1000?cb=20240912101744",
         "icon": "b/bc/Camellya_Icon.png/revision/latest?cb=20241116001919",
         "model": "d/d4/Camellya_Full_Sprite.png/revision/latest?cb=20241210024027",
-        "sigil": "N/A",
         "characterSheet": "e/ee/Camellya_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240912101955"
     }
 }

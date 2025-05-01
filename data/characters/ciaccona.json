@@ -1,52 +1,40 @@
 {
 	"id": 1010,
 	"name": "Ciaccona",
-	"title": "",
+	"title": "Woven Melodies",
     "quote": "Off we go! May my poems light the way on your path ahead!",
     "rarity": 5,
     "attribute": "Aero",
 	"weapon": "Pistols",
     "combatRoles": {
         "roles": [
+            "Concerto Efficiency",
+            "Traction",
+            "Aero Erosion"
         ]
     },
-    "class": "",
+    "class": "Unknown",
 	"gender": "Female",
-	"birthday": "",
+	"birthday": "Unknown",
 	"birthPlace": "Rinascita",
-	"nation": "",
+	"nation": "Rinascita",
 	"affiliations": [
-
+        "Ragunna"
     ],
-	"specialDish": "",
-	"releaseDate": "",
+	"specialDish": "Pasta Bocadillo",
+	"releaseDate": "May 22, 2025",
 	"va": {
-		"english": "",
-		"chinese": "",
+		"english": "Rebecca Hanssen",
+		"chinese": "Ye Zhiqiu",
 		"japanese": "Hasegawa Ikumi",
-		"korean": ""
+		"korean": "Kim Ye-rim"
 	},
-    "trophies": [
-        {
-            "name": "",
-            "description": "",
-            "reward": ""
-        }
-    ],
-    "outfits": [
-        {
-            "name": "",
-            "rarity": "",
-            "type": "",
-            "obtain": ""
-        }
-    ],
-    "sigil": "",
+    "trophies": [],
+    "outfits": [],
     "images": {
         "card": "6/68/Ciaccona_Card.png/revision/latest/scale-to-width-down/1000?cb=20250403171349",
         "icon": "e/e9/Ciaccona_Icon.png/revision/latest?cb=20250403190812",
-        "model": "",
-        "sigil": "",
+        "model": "f/f9/Ciaccona_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250427051539",
         "characterSheet": "4/43/Ciaccona_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20250403104604"
     }
 }
