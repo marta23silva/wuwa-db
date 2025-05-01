@@ -1,0 +1,49 @@
+{
+	"id": 1029,
+	"name": "Yinlin",
+	"title": "Lightning of Execution",
+    "quote": "Name's Yinlin. As for what I do... Shhh, we don't talk about that in public.",
+    "rarity": 5,
+    "attribute": "Electro",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Resonance Skill Damage",
+            "Coordinated Attack",
+            "Electro DMG Amplification",
+            "Resonance Liberation DMG Amplification"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "September 17",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Public Security Bureau"
+    ],
+	"specialDish": "Golden Fried Rice",
+	"releaseDate": "June 06, 2024",
+	"va": {
+		"english": "Naomi McDonald",
+		"chinese": "Xiao Liansha",
+		"japanese": "Koshimizu Ami",
+		"korean": "Kang Sae-bom"
+	},
+    "trophies": [
+        {
+            "name": "Warm Yet Solitary",
+            "description": "Use Yinlin's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [],
+    "images": {
+        "card": "b/b4/Yinlin%27s_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20241007222006",
+        "icon": "a/ac/Yinlin_Icon.png/revision/latest?cb=20240523015514",
+        "model": "4/45/Yinlin_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20240530080509",
+        "characterSheet": "e/ed/Yinlin_Character_sheet_%28Full%29.jpg/revision/latest/scale-to-width-down/1000?cb=20240510102818"
+    }
+}

@@ -1,0 +1,56 @@
+{
+	"id": 1028,
+	"name": "Yangyang",
+	"title": "Breath of Winds",
+    "quote": "I hope I can be the one to embrace all that you are, and share with you all that you carry.",
+    "rarity": 4,
+    "attribute": "Aero",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Traction",
+            "Resonance Liberation Regeneration"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Female",
+	"birthday": "October 11",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Midnight Rangers"
+    ],
+	"specialDish": "Fluffy Wuthercake",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Rebecca Yeo",
+		"chinese": "Chongchong",
+		"japanese": "Ishikawa Yui",
+		"korean": "Lee Yu-ri"
+	},
+    "trophies": [
+        {
+            "name": "Birds' Ballad",
+            "description": "Use Yangyang's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "A Winged Song",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Breeze",
+    "images": {
+        "card": "a/a7/Yangyang_Card.png/revision/latest?cb=20240813182233",
+        "icon": "3/38/Yangyang_Icon.png/revision/latest?cb=20240523011247",
+        "model": "d/d0/Yangyang_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20240703175222",
+        "sigil": "d/d5/Breeze_Sigil.png/revision/latest?cb=20241030155230",
+        "characterSheet": "0/05/Yangyang_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240208145951"
+    }
+}
