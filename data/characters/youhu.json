@@ -1,0 +1,47 @@
+{
+	"id": 1030,
+	"name": "Youhu",
+	"title": "Cryogenic Wonders",
+    "quote": "Here you go, a special edition of my poetry collection, hand-signed by moi! You are welcome!",
+    "rarity": 4,
+    "attribute": "Glacio",
+	"weapon": "Gauntlets",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Resonance Skill Damage",
+            "Vibration Strength Reduction",
+            "Coordinated Attack DMG Amplification"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthday": "October 13",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Chongzhou"
+    ],
+	"specialDish": "Frostwork Cake",
+	"releaseDate": "October 24, 2024",
+	"va": {
+		"english": "Leonora Haig",
+		"chinese": "Liu Yilei",
+		"japanese": "Tomita Miyu",
+		"korean": "Park Si-yoon"
+	},
+    "trophies": [
+        {
+            "name": "Jackpot",
+            "description": "Use Youhu's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [],
+    "images": {
+        "card": "b/b6/Youhu_Card.png/revision/latest/scale-to-width-down/1000?cb=20240813132555",
+        "icon": "d/de/Youhu_Icon.png/revision/latest?cb=20240929033850",
+        "model": "2/27/Youhu_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20241024101158",
+        "characterSheet": "c/cf/Youhu_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240804154926"
+    }
+}

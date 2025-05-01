@@ -1,0 +1,56 @@
+{
+	"id": 1031,
+	"name": "Yuanwu",
+	"title": "Fist of Thunder",
+    "quote": "Assuming I've thought my decisions through and acted with integrity, I am content.",
+    "rarity": 4,
+    "attribute": "Electro",
+	"weapon": "Gauntlets",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Coordinated Attack",
+            "Interruption Resistance Boost",
+            "Vibration Strength Reduction"
+        ]
+    },
+    "class": "Natural",
+	"gender": "Male",
+	"birthday": "October 2",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou"
+    ],
+	"specialDish": "Sanqing Tea",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Adam Diggle",
+		"chinese": "Liu Beichen",
+		"japanese": "Shirokuma Hiroshi",
+		"korean": "Park Seong-tae"
+	},
+    "trophies": [
+        {
+            "name": "Punch It With Leihuangquan!",
+            "description": "Use Yuanwu's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "An Elegant Cut",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Healthy Lifestyle",
+    "images": {
+        "card": "0/02/Yuanwu_.jpg/revision/latest/scale-to-width-down/1000?cb=20231221175828",
+        "icon": "a/ac/Yuanwu_Icon.png/revision/latest?cb=20240523015241",
+        "model": "1/17/Yuanwu_Full_Sprite.png/revision/latest?cb=20240202081324",
+        "sigil": "5/5e/Healthy_Lifestyle_Sigil.png/revision/latest?cb=20241030155921",
+        "characterSheet": "6/6c/Yuanwu_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240511155808"
+    }
+}
