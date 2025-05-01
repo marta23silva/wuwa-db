@@ -1,0 +1,56 @@
+{
+	"id": 1026,
+	"name": "Verina",
+	"title": "Nature Calling",
+    "quote": "Plants talk in a silent and sincere language. I can translate their talk for you, if you want.",
+    "rarity": 5,
+    "attribute": "Spectro",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Coordinated Attack",
+            "DMG Amplification"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "May 18",
+	"birthPlace": "New Federation",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Jinzhou",
+        "Pioneer Association"
+    ],
+	"specialDish": "Green Field Pot",
+	"releaseDate": "May 23, 2024",
+	"va": {
+		"english": "Heather Nicol",
+		"chinese": "Zhao Shuang",
+		"japanese": "Sasahara Yū",
+		"korean": "Kang Saebom"
+	},
+    "trophies": [
+        {
+            "name": "Folded Petals",
+            "description": "Use Verina's Outro Skill 100 times.",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Budding Green",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "sigil": "Exploration",
+    "images": {
+        "card": "7/7c/Verina%27s_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20240511130959",
+        "icon": "6/63/Verina_Icon.png/revision/latest?cb=20240523015325",
+        "model": "a/ab/Verina_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20240530080009",
+        "sigil": "3/39/Exploration_Sigil.png/revision/latest?cb=20240617161415",
+        "characterSheet": "b/b7/Verina_full_character_sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20240314200953"
+    }
+}
