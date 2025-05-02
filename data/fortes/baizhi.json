@@ -1,0 +1,86 @@
+{
+    "id": 1002,
+    "name": "Baizhi",
+    "forte": {
+        "basicAttack": {
+            "name": "Destined Promise",
+            "basicAttack": "Baizhi instructs You'tan to perform up to 4 consecutive attacks, dealing Glacio DMG.",
+            "heavyAttack": "Baizhi continuously consumes Stamina to command You'tan to attack enemies, dealing Glacio DMG. During Heavy Attack, Baizhi can command You'tan to move.",
+            "midairAttack": "Baizhi consumes Stamina and summons You’tan in mid-air to perform a Plunging Attack, dealing Glacio DMG.",
+            "dodgeCounter": "Use Basic Attack after a successful Dodge to attack the target, dealing Glacio DMG."
+        },
+        "resonanceSkill": {
+            "name": "Emergency Plan",
+            "skills": [
+                {
+                    "name": "",
+                    "description": "Baizhi calls You'tan to attack the target, dealing Glacio DMG while restoring HP for the entire team."
+                }
+            ],
+            "cooldown": "16s",
+            "concertoRegen": 10
+        },
+        "resonanceLiberation": {
+            "name": "Momentary Union",
+            "skills": [
+                {
+                    "name": "",
+                    "description": "Baizhi summons You'tan to restore HP for the entire team, generating 4 stacks of Remnant Entities."
+                },
+                {
+                    "name": "Remnant Entities",
+                    "description": "Remnant Entities follow the active team members and automatically consume 1 stacks of Remnant Entities to attack the targets every 2.5s, dealing Glacio DMG on hit while restoring HP to all team members nearby."
+                }
+            ],
+            "cooldown": "25s",
+            "resonanceCost": 175,
+            "concertoRegen": 20
+        },
+        "forteCircuit": {
+            "name": "Cycle of Life",
+            "skills": [
+                {
+                    "name": "You'tan",
+                    "description": "A Remnant Creature that answers to Baizhi's mind and desires while sharing all her attributes. You'tan goes back to Baizhi when Baizhi dodges."
+                },
+                {
+                    "name": "Concentration",
+                    "description": "Baizhi consumes all \"Concentrations\" when casting Heavy Attack or Resonance Skill Emergency Plan to continuously restore HP for Characters nearby. Each 1 \"Concentration\" consumed restores HP for 1 time every 2s. When Baizhi consumes \"Concentration\" to cast Heavy Attack, Baizhi additionally restores Concerto Energy and Resonance Energy; When Baizhi consumes \"Concentration\" to cast Resonance Skill Emergency Plan, Baizhi additionally restores Concerto Energy."
+                },
+                {
+                    "name": "Concentration",
+                    "description": "Baizhi can hold up to 4 \"Concentrations\". Baizhi obtains 1 \"Concentration\" for every Basic Attack on hit."
+                }
+            ]
+        },
+        "inherentSkill": {
+            "skills": [
+                {
+                    "name": "Harmonic Range",
+                    "description": "When Baizhi casts Resonance Skill Emergency Plan, You'tan generates a field of Euphonia that lasts for 15s. Euphonia: ATK of the Resonators who picks up Euphonia is increased by 15% for 20s."
+                },
+                {
+                    "name": "Stimulus Feedback",
+                    "description": "For every Heavy Attack on hit, Baizhi restores HP to the nearby team member with the least HP equal to 0.25% of Baizhi's max HP."
+                }
+            ] 
+        },
+        "introSkill": {
+            "skills": [
+                {
+                    "name": "Overflowing Frost",
+                    "description": "Baizhi calls You'tan to perform 1 plunging attack, dealing Glacio DMG while restoring HP to all team members nearby."
+                }
+            ],
+            "concertoRegen": 10
+        },
+        "outroSkill": {
+            "skills": [
+                {
+                    "name": "Rejuvinating Flow",
+                    "description": "Heal the incoming Resonator by 1.54% of Baizhi's max HP every 3s for 30s. The healed Resonator has their DMG Amplified by 15% for 6s."
+                }
+            ]
+        }
+    }
+}

@@ -21,7 +21,8 @@
                     "description": "Deals Aero DMG, considered as Resonance Skill damage."
                 }
             ],
-            "cooldown": "10s"
+            "cooldown": "10s",
+            "concertoRegen": 15
 
         },
         "resonanceLiberation": {
@@ -32,7 +33,9 @@
                     "description": "Generate a \"Gate of Quandary\" in front, dealing Aero DMG. When bullets pass trough the \"Gate of Quandary\", they deal increased DMG. \"Gate of Quandary\" lasts for 10s."
                 }
             ],
-            "cooldown": "20s"
+            "cooldown": "20s",
+            "resonanceCost": 150,
+            "concertoRegen": 20
         },
         "forteCircuit": {
             "name": "Misty Cover",
@@ -49,8 +52,7 @@
                     "name": "Mist Drops",
                     "description": "Aalto can hold up to 6 \"Mist Drops\". When Basic Attack or Mid-air Attack passes through \"Mist\" and hits the target, 1 \"Mist Drop\" is recovered."
                 }
-            ],
-            "movementSpeedIncrease": 40
+            ]
         },
         "inherentSkill": {
             "skills": [
@@ -70,7 +72,8 @@
                     "name": "Feint Shot",
                     "description": "Aalto shows up out of thin air to perform rapid continuous shooting, dealing Aero DMG."
                 }
-            ]
+            ],
+            "concertoRegen": 10
         },
         "outroSkill": {
             "skills": [
