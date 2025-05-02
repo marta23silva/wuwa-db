@@ -1,4 +1,4 @@
-const { getCharacter } = require("./character");
+const { getCharacter, getCharacterList } = require("./character");
 
 /* Get character example when getting only one file */
 /* 
@@ -8,5 +8,6 @@ const { getCharacter } = require("./character");
 */
 
 module.exports = {
-  character: getCharacter
+  character: getCharacter,
+  characterList: getCharacterList
 };

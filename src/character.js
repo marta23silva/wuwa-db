@@ -1,4 +1,4 @@
-const { allCharacterData, /* characterData */ } = require("./loader");
+const { allCharacterData, /* characterData */ characterList } = require("./loader");
 
 /* Returns the selected character from all the loaded characters */
 function getCharacter(name) {
@@ -13,6 +13,11 @@ async function getCharacter(name) {
 }
 */
 
+function getCharacterList() {
+  return characterList;
+}
+
 module.exports = {
-  getCharacter
+  getCharacter,
+  getCharacterList
 };

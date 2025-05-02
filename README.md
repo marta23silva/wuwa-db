@@ -28,11 +28,10 @@ console.log(aalto.images.card);  // Full card image URL
 + 🗃️ JSON-driven and easy to extend
 
 ## 📋 TODO List
- + Add data for all released characters
  + Add support for weapons
  + Add support for echoes / bosses / materials (maybeeee)
- +  Better error handling (e.g., invalid character name)
- +  Add unit tests and CI setup
+ + Better error handling (e.g., invalid character name)
+ + Add unit tests and CI setup
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
