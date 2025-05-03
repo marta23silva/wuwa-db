@@ -1,0 +1,76 @@
+{
+    "id": 2005,
+    "name": "Bloodpact's Pledge",
+    "type": "Sword",
+    "rarity": 5,
+    "associatedResonator": "Rover (Aero)",
+    "weaponSeries": "N/A",
+    "baseAtkLvl1": 47,
+    "mainStat": "Energy Regen",
+    "baseMainStatLvl1": "8.6%",
+    "baseAtkLvl90": 587,
+    "baseMainStatLvl90": "38.8%",
+    "rankStats": {
+        "description": "Providing Healing increases Resonance Skill DMG by {x} for 6s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by {x} for 30s.",
+        "r1": {
+            "x": "10%"
+        },
+        "r2": {
+            "x": "14%"
+        },
+        "r3": {
+            "x": "18%"
+        },
+        "r4": {
+            "x": "22%"
+        },
+        "r5": {
+            "x": "26%"
+        }
+    },
+    "costs": {
+        "ascension1": {
+            "shellcredit": 10000,
+            "material1": "N/A",
+            "quantity1": "N/A",
+            "material2": "LF Howler Core",
+            "quantity2": 6
+        },
+        "ascension2": {
+            "shellcredit": 20000,
+            "material1": "Inert Metallic Drip",
+            "quantity1": 6,
+            "material2": "MF Howler Core",
+            "quantity2": 6
+        },
+        "ascension3": {
+            "shellcredit": 40000,
+            "material1": "Reactive Metallic Drip",
+            "quantity1": 8,
+            "material2": "HF Howler Core",
+            "quantity2": 4
+        },
+        "ascension4": {
+            "shellcredit": 60000,
+            "material1": "Polarized Metallic Drip",
+            "quantity1": 6,
+            "material2": "HF Howler Core",
+            "quantity2": 6
+        },
+        "ascension5": {
+            "shellcredit": 80000,
+            "material1": "Heterized Metallic Drip",
+            "quantity1": 6,
+            "material2": "FF Howler Core",
+            "quantity2": 4
+        },
+        "ascension6": {
+            "shellcredit": 120000,
+            "material1": "Heterized Metallic Drip",
+            "quantity1": 12,
+            "material2": "FF Howler Core",
+            "quantity2": 8
+        }
+    },
+    "releaseDate": "March 27, 2024"
+}

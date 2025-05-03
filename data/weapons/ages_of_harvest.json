@@ -1,0 +1,83 @@
+{
+    "id": 2002,
+    "name": "Ages of Harvest",
+    "type": "Broadblade",
+    "rarity": 5,
+    "associatedResonator": "Jinhsi",
+    "weaponSeries": "N/A",
+    "baseAtkLvl1": 47,
+    "mainStat": "Crit. Rate",
+    "baseMainStatLvl1": "5.4%",
+    "baseAtkLvl90": 587,
+    "baseMainStatLvl90": "24.3%",
+    "rankStats": {
+        "title": "Divine Blessing",
+        "description": "Grants {x} Attribute DMG Bonus. Casting Intro Skill gives the equipper Ageless Marking, which grants {y} Resonance Skill DMG Bonus for 12s. Casting Resonance Skill gives the equipper Ethereal Endowment, which grants {y} Resonance Skill DMG Bonus for 12s.",
+        "r1": {
+            "x": "12%", "y": "24%"
+        },
+        "r2": {
+            "x": "15%", "y": "30%"
+        },
+        "r3": {
+            "x": "18%", "y": "36%"
+        },
+        "r4": {
+            "x": "21%", "y": "42%"
+        },
+        "r5": {
+            "x": "24%", "y": "48%"
+        }
+    },
+    "costs": {
+        "ascension1": {
+            "shellcredit": 10000,
+            "material1": "N/A",
+            "quantity1": "N/A",
+            "material2": "LF Whisperin Core",
+            "quantity2": 6
+        },
+        "ascension2": {
+            "shellcredit": 20000,
+            "material1": "Waveworn Residue 210",
+            "quantity1": 6,
+            "material2": "MF Whisperin Core",
+            "quantity2": 6
+        },
+        "ascension3": {
+            "shellcredit": 40000,
+            "material1": "Waveworn Residue 226",
+            "quantity1": 8,
+            "material2": "HF Whisperin Core",
+            "quantity2": 4
+        },
+        "ascension4": {
+            "shellcredit": 60000,
+            "material1": "Waveworn Residue 235",
+            "quantity1": 6,
+            "material2": "HF Whisperin Core",
+            "quantity2": 6
+        },
+        "ascension5": {
+            "shellcredit": 80000,
+            "material1": "Waveworn Residue 239",
+            "quantity1": 6,
+            "material2": "FF Whisperin Core",
+            "quantity2": 4
+        },
+        "ascension6": {
+            "shellcredit": 120000,
+            "material1": "Waveworn Residue 239",
+            "quantity1": 12,
+            "material2": "FF Whisperin Core",
+            "quantity2": 8
+        }
+    },
+    "releaseDate": "June 28, 2024",
+    "images": {
+        "fullWeapon": "1/19/Weapon_Ages_of_Harvest_Full.png/revision/latest?cb=20240906190242",
+        "card": "5/56/Weapon_Card_Ages_of_Harvest_1.png/revision/latest?cb=20240628173751",
+        "details": "4/43/Weapon_Card_Ages_of_Harvest_2.png/revision/latest?cb=20240628173802",
+        "convene": "a/a0/Absolute_Pulsation_Ages_of_Harvest_2025-01-23.jpg/revision/latest/scale-to-width-down/1000?cb=20250122071502"
+    }
+}

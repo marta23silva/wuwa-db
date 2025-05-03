@@ -1,0 +1,80 @@
+{
+    "id": 2006,
+    "name": "Cosmic Ripples",
+    "type": "Rectifier",
+    "rarity": 5,
+    "associatedResonator": "N/A",
+    "weaponSeries": "Winter Brume",
+    "baseAtkLvl1": 40,
+    "mainStat": "ATK",
+    "baseMainStatLvl1": "11.9%",
+    "baseAtkLvl90": 500,
+    "baseMainStatLvl90": "53.9%",
+    "rankStats": {
+        "title": "Stormy Resolution",
+        "description": "Increases Energy Regen by {x}. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by {y}, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
+        "r1": {
+            "x": "12.8%", "y": "3.2%"
+        },
+        "r2": {
+            "x": "16%", "y": "4%"
+        },
+        "r3": {
+            "x": "19.2%", "y": "4.8%"
+        },
+        "r4": {
+            "x": "22.4%", "y": "5.6%"
+        },
+        "r5": {
+            "x": "25.6%", "y": "6.4%"
+        }
+    },
+    "costs": {
+        "ascension1": {
+            "shellcredit": 10000,
+            "material1": "N/A",
+            "quantity1": "N/A",
+            "material2": "Crude Ring",
+            "quantity2": 6
+        },
+        "ascension2": {
+            "shellcredit": 20000,
+            "material1": "Lento Helix",
+            "quantity1": 6,
+            "material2": "Basic Ring",
+            "quantity2": 6
+        },
+        "ascension3": {
+            "shellcredit": 40000,
+            "material1": "Adagio Helix",
+            "quantity1": 8,
+            "material2": "Improved Ring",
+            "quantity2": 4
+        },
+        "ascension4": {
+            "shellcredit": 60000,
+            "material1": "Andante Helix",
+            "quantity1": 6,
+            "material2": "Improved Ring",
+            "quantity2": 6
+        },
+        "ascension5": {
+            "shellcredit": 80000,
+            "material1": "Presto Helix",
+            "quantity1": 6,
+            "material2": "Tailored Ring",
+            "quantity2": 4
+        },
+        "ascension6": {
+            "shellcredit": 120000,
+            "material1": "Presto Helix",
+            "quantity1": 12,
+            "material2": "Tailored Ring",
+            "quantity2": 8
+        }
+    },
+    "releaseDate": "May 23, 2024",
+    "images": {
+        "fullWeapon": "3/38/Weapon_Cosmic_Ripples.png/revision/latest?cb=20240515174847"
+    }
+}

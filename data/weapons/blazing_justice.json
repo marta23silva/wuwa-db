@@ -1,32 +1,32 @@
 {
-    "id": 2001,
-    "name": "Abyss Surges",
+    "id": 2004,
+    "name": "Blazing Justice",
     "type": "Gauntlets",
     "rarity": 5,
-    "associatedResonator": "N/A",
-    "weaponSeries": "Winter Brume",
+    "associatedResonator": "Zani",
+    "weaponSeries": "N/A",
     "baseAtkLvl1": 47,
-    "mainStat": "ATK",
-    "baseMainStatLvl1": "8.1%",
+    "mainStat": "Crit. DMG",
+    "baseMainStatLvl1": "10.8%",
     "baseAtkLvl90": 587,
-    "baseMainStatLvl90": "36.4%",
+    "baseMainStatLvl90": "48.6%",
     "rankStats": {
-        "title": "Stormy Resolution",
-        "description": "Increases Energy Regen by {x}. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by {y}, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by {y}, lasting for 8s.",
+        "title": "Darkness Breaker",
+        "description": "Increases ATK by {x}. Casting Basic Attack grants the following effects: Dealing damage ignores {y} of the target's DEF and Amplifies Spectro Frazzle DMG dealt by {z} for 6s. Retriggering the effect resets its duration.",
         "r1": {
-            "x": "12.8%", "y": "10%"
+            "x": "12%", "y": "8%", "z": "50%"
         },
         "r2": {
-            "x": "16%", "y": "12.5%"
+            "x": "15%", "y": "10%", "z": "62.5%"
         },
         "r3": {
-            "x": "19.2%", "y": "15%"
+            "x": "18%", "y": "12%", "z": "75%"
         },
         "r4": {
-            "x": "22.4%", "y": "17.5%"
+            "x": "21%", "y": "14%", "z": "87.5%"
         },
         "r5": {
-            "x": "25.6%", "y": "20%"
+            "x": "24%", "y": "16%", "z": "100%"
         }
     },
     "costs": {
@@ -73,10 +73,11 @@
             "quantity2": 8
         }
     },
-    "releaseDate": "May 23, 2024",
+    "releaseDate": "May 02, 2025",
     "images": {
-        "fullWeapon": "b/be/Weapon_Abyss_Surges.png/revision/latest?cb=20240606152429",
-        "card": "N/A",
-        "details": "N/A"
+        "fullWeapon": "c/cd/Weapon_Blazing_Justice.png/revision/latest?cb=20250503160236",
+        "card": "",
+        "details": "",
+        "convene": "a/a8/Absolute_Pulsation_Blazing_Justice_2025-04-29.jpg/revision/latest/scale-to-width-down/1000?cb=20250429024024"
     }
 }

@@ -1,0 +1,83 @@
+{
+    "id": 2003,
+    "name": "Blazing Brilliance",
+    "type": "Sword",
+    "rarity": 5,
+    "associatedResonator": "Changli",
+    "weaponSeries": "N/A",
+    "baseAtkLvl1": 47,
+    "mainStat": "Crit. DMG",
+    "baseMainStatLvl1": "10.8%",
+    "baseAtkLvl90": 587,
+    "baseMainStatLvl90": "48.6%",
+    "rankStats": {
+        "title": "Crimson Phoenix",
+        "description": "ATK increased by {x}. The equipper gains 1 stack of Searing Feather upon dealing damage, which can be triggered once every 0.5s, and gains 5 stacks of the same effect upon casting Resonance Skill. Each stack of Searing Feather gives {y} additional Resonance Skill DMG Bonus for up to 14 stacks. All stacks will be removed within 10s after reaching the max stack.",
+        "r1": {
+            "x": "12%", "y": "4%"
+        },
+        "r2": {
+            "x": "15%", "y": "5%"
+        },
+        "r3": {
+            "x": "18%", "y": "6%"
+        },
+        "r4": {
+            "x": "21%", "y": "7%"
+        },
+        "r5": {
+            "x": "24%", "y": "8%"
+        }
+    },
+    "costs": {
+        "ascension1": {
+            "shellcredit": 10000,
+            "material1": "N/A",
+            "quantity1": "N/A",
+            "material2": "LF Howler Core",
+            "quantity2": 6
+        },
+        "ascension2": {
+            "shellcredit": 20000,
+            "material1": "Inert Metallic Drip",
+            "quantity1": 6,
+            "material2": "MF Howler Core",
+            "quantity2": 6
+        },
+        "ascension3": {
+            "shellcredit": 40000,
+            "material1": "Reactive Metallic Drip",
+            "quantity1": 8,
+            "material2": "HF Howler Core",
+            "quantity2": 4
+        },
+        "ascension4": {
+            "shellcredit": 60000,
+            "material1": "Polarized Metallic Drip",
+            "quantity1": 6,
+            "material2": "HF Howler Core",
+            "quantity2": 6
+        },
+        "ascension5": {
+            "shellcredit": 80000,
+            "material1": "Heterized Metallic Drip",
+            "quantity1": 6,
+            "material2": "FF Howler Core",
+            "quantity2": 4
+        },
+        "ascension6": {
+            "shellcredit": 120000,
+            "material1": "Heterized Metallic Drip",
+            "quantity1": 12,
+            "material2": "FF Howler Core",
+            "quantity2": 8
+        }
+    },
+    "releaseDate": "July 22, 2024",
+    "images": {
+        "fullWeapon": "7/7e/Weapon_Blazing_Brilliance_Full.png/revision/latest?cb=20240730093702",
+        "card": "a/ae/Weapon_Card_Blazing_Brilliance_1.png/revision/latest?cb=20240726155114",
+        "details": "b/bd/Weapon_Card_Blazing_Brilliance_2.png/revision/latest?cb=20240726155412",
+        "convene": "c/cd/Absolute_Pulsation_Blazing_Brilliance_2025-03-06.jpg/revision/latest/scale-to-width-down/1000?cb=20250305093021"
+    }
+}
