@@ -1,5 +1,4 @@
 const fs = require("fs");
-//const fs = require("fs/promises"); /* For async calls */
 const path = require("path");
 const { WUTHERING_WAVES_IMAGE_BASE_URL } = require("./constants");
 const { capitalizeFirstLetter } = require("./utils");
@@ -35,15 +34,6 @@ function loadAllCharacterData() {
   return data;
 }
 
-/* Loads only the requested character */
-/*
-async function loadCharacterData(characterName) {
-  const dirPath = path.join(__dirname, "..", "data", "characters", `${characterName}.json`);
-  const rawData = await fs.readFile(dirPath, "utf8");
-  return JSON.parse(rawData);;
-}
-*/
-
 function listAllCharacters() {
   const dirPath = path.join(__dirname, "..", "data", "characters");
   const overrideCharDir = path.join(dirPath, "character_name_overrides.json");
@@ -57,11 +47,9 @@ function listAllCharacters() {
 }
 
 const allCharacterData  = loadAllCharacterData();
-/* const characterData     = loadCharacterData(); */
 const characterList = listAllCharacters();
 
 module.exports = {
   allCharacterData,
-  /* characterData */
   characterList
 };

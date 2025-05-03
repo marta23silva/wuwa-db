@@ -1,4 +1,5 @@
-const { allCharacterData, /* characterData */ characterList } = require("./loader");
+const { allCharacterData, characterList } = require("./loader");
+/* const { characterData } = require("./loadByRequest"); */
 
 /* Returns the selected character from all the loaded characters */
 function getCharacter(name) {
@@ -9,7 +10,7 @@ function getCharacter(name) {
 /* Load each file based on input */
 /*
 async function getCharacter(name) {
-  return await loadCharacterData(name);
+  return await characterData(name);
 }
 */
 
