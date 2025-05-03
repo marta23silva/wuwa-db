@@ -1,4 +1,5 @@
 const { getCharacter, getCharacterList } = require("./character");
+const { getWeapon, getWeaponList } = require("./weapon");
 
 /* Get character example when getting only one file */
 /* 
@@ -9,5 +10,7 @@ const { getCharacter, getCharacterList } = require("./character");
 
 module.exports = {
   character: getCharacter,
-  characterList: getCharacterList
+  characterList: getCharacterList,
+  weapon: getWeapon,
+  weaponList: getWeaponList
 };

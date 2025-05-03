@@ -27,8 +27,11 @@ console.log(aalto.images.card);  // Full card image URL
 + 🖼️ Image URLs (such as character card, icon, model, etc.)
 + 🗃️ JSON-driven and easy to extend
 
+## 🚧 DOING
+ + Adding weapon information
+
 ## 📋 TODO List
- + Add support for weapons
+ + Add full support for weapons
  + Add support for echoes / bosses / materials (maybeeee)
  + Better error handling (e.g., invalid character name)
  + Add unit tests and CI setup
