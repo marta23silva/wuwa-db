@@ -1,9 +1,12 @@
 {
-    "id": 2003,
+    "id": 2008,
     "name": "Blazing Brilliance",
     "type": "Sword",
     "rarity": 5,
-    "associatedResonator": "Changli",
+    "associatedResonator": {
+        "id": 1008,
+        "name": "Changli"
+    },
     "weaponSeries": "N/A",
     "baseAtkLvl1": 47,
     "mainStat": "Crit. DMG",

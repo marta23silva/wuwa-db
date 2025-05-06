@@ -1,9 +1,12 @@
 {
-    "id": 2005,
+    "id": 2021,
     "name": "Bloodpact's Pledge",
     "type": "Sword",
     "rarity": 5,
-    "associatedResonator": "Rover (Aero)",
+    "associatedResonator": {
+        "id": [1021,1022],
+        "name": "Rover (Aero)"
+    },
     "weaponSeries": "N/A",
     "baseAtkLvl1": 47,
     "mainStat": "Energy Regen",

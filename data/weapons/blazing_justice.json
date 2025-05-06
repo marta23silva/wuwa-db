@@ -1,9 +1,12 @@
 {
-    "id": 2004,
+    "id": 2032,
     "name": "Blazing Justice",
     "type": "Gauntlets",
     "rarity": 5,
-    "associatedResonator": "Zani",
+    "associatedResonator": {
+        "id": 1032,
+        "name": "Zani"
+    },
     "weaponSeries": "N/A",
     "baseAtkLvl1": 47,
     "mainStat": "Crit. DMG",

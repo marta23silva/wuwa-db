@@ -6,6 +6,10 @@
     "rarity": 5,
     "attribute": "Spectro",
 	"weapon": "Broadblade",
+    "associatedWeapon": {
+        "id": 2014,
+        "name": "Ages of Harvest"
+    },
     "combatRoles": {
         "roles": [
             "Main Damage Dealer",

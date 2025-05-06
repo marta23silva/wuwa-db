@@ -1,9 +1,12 @@
 {
-    "id": 2002,
+    "id": 2014,
     "name": "Ages of Harvest",
     "type": "Broadblade",
     "rarity": 5,
-    "associatedResonator": "Jinhsi",
+    "associatedResonator": {
+        "id": 1014,
+        "name": "Jinhsi"
+    },
     "weaponSeries": "N/A",
     "baseAtkLvl1": 47,
     "mainStat": "Crit. Rate",

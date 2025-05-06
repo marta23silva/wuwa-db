@@ -6,6 +6,10 @@
     "rarity": 5,
     "attribute": "Spectro",
 	"weapon": "Gauntlets",
+    "associatedWeapon": {
+        "id": 2032,
+        "name": "Blazing Justice"
+    },
     "combatRoles": {
         "roles": [
             "Main Damage Dealer",

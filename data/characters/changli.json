@@ -6,6 +6,10 @@
     "rarity": 5,
     "attribute": "Fusion",
 	"weapon": "Sword",
+    "associatedWeapon": {
+        "id": 2008,
+        "name": "Blazing Brilliance"
+    },
     "combatRoles": {
         "roles": [
             "Main Damage Dealer",

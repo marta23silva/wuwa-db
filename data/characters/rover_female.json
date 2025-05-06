@@ -6,6 +6,10 @@
     "rarity": 5,
     "attribute": "Multi",
 	"weapon": "Sword",
+    "associatedWeapon": {
+        "id": 2021,
+        "name": "Bloodpact's Pledge"
+    },
     "combatRoles": {
         "roles": [
             "Concerto Efficiency",
