@@ -1,5 +1,5 @@
 {
-    "id": 2006,
+    "id": 2002,
     "name": "Cosmic Ripples",
     "type": "Rectifier",
     "rarity": 5,
@@ -75,6 +75,7 @@
     },
     "releaseDate": "May 23, 2024",
     "images": {
-        "fullWeapon": "3/38/Weapon_Cosmic_Ripples.png/revision/latest?cb=20240515174847"
+        "fullWeapon": "3/38/Weapon_Cosmic_Ripples.png/revision/latest?cb=20240515174847",
+        "convene": "3/38/Winter_Brume_Rectifier.png/revision/latest/scale-to-width-down/1000?cb=20241208093738"
     }
 }
