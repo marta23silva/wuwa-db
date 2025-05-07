@@ -12,7 +12,7 @@ function loadAllCharacterData() {
     const files = fs.readdirSync(dirPath);
     
     files.forEach((file) => {
-      if (file.endsWith(".json") && file!=="character_name_overrides.json") {
+      if (file.endsWith(".json")) {
         const charName = file.replace(".json", "").toLowerCase();
         const filePath = path.join(dirPath, file);
         const rawData = fs.readFileSync(filePath, "utf8");
@@ -36,10 +36,10 @@ function loadAllCharacterData() {
 
 function listAllCharacters() {
   const dirPath = path.join(__dirname, "..", "data", "characters");
-  const overrideCharDir = path.join(dirPath, "character_name_overrides.json");
+  const overrideCharDir = path.join(__dirname, "..", "data", "utils", "character_name_map.json");
   const overrides = JSON.parse(fs.readFileSync(overrideCharDir, "utf8"));
 
-  const characterFiles = fs.readdirSync(dirPath).filter(file => file.endsWith(".json") && file!=="character_name_overrides.json");
+  const characterFiles = fs.readdirSync(dirPath).filter(file => file.endsWith(".json"));
   return characterFiles.map(file => {
     const baseName = path.basename(file, ".json");
     return overrides[file] || capitalizeFirstLetter(baseName.replace(/_/g, " "));
@@ -55,7 +55,7 @@ function loadAllWeaponData() {
     const files = fs.readdirSync(dirPath);
     
     files.forEach((file) => {
-      if(file.endsWith(".json") && file!=="weapon_name_overrides.json") {
+      if(file.endsWith(".json")) {
         const weaponName = file.replace(".json", "").toLowerCase();
         const filePath = path.join(dirPath, file);
         const rawData = fs.readFileSync(filePath, "utf8");
@@ -79,10 +79,10 @@ function loadAllWeaponData() {
 
 function listAllWeapons() {
   const dirPath = path.join(__dirname, "..", "data", "weapons");
-  const overrideWeaponDir = path.join(dirPath, "weapon_name_overrides.json");
+  const overrideWeaponDir = path.join(__dirname, "..", "data", "utils", "weapon_name_map.json");
   const overrides = JSON.parse(fs.readFileSync(overrideWeaponDir, "utf8"));
 
-  const weaponFiles = fs.readdirSync(dirPath).filter(file => file.endsWith(".json") && file!=="weapon_name_overrides.json");
+  const weaponFiles = fs.readdirSync(dirPath).filter(file => file.endsWith(".json"));
   return weaponFiles.map(file => {
     const baseName = path.basename(file, ".json");
     return overrides[file] || capitalizeFirstLetter(baseName.replace(/_/g, " "));
