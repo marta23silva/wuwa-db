@@ -1,0 +1,80 @@
+{
+    "id": 2003,
+    "name": "Emerald of Genesis",
+    "type": "Sword",
+    "rarity": 5,
+    "associatedResonator": "N/A",
+    "weaponSeries": "Winter Brume",
+    "baseAtkLvl1": 47,
+    "mainStat": "Crit. Rate",
+    "baseMainStatLvl1": "5.4%",
+    "baseAtkLvl90": 587,
+    "baseMainStatLvl90": "24.3%",
+    "rankStats": {
+        "title": "Stormy Resolution",
+        "description": "Increases Energy Regen by {x}. When Resonance Skill is released, increases ATK by {y}, stacking up to 2 time(s). This effect lasts for 10s.",
+        "r1": {
+            "x": "12.8%", "y": "6%"
+        },
+        "r2": {
+            "x": "16%", "y": "7.5%"
+        },
+        "r3": {
+            "x": "19.2%", "y": "9%"
+        },
+        "r4": {
+            "x": "22.4%", "y": "10.5%"
+        },
+        "r5": {
+            "x": "25.6%", "y": "12%"
+        }
+    },
+    "costs": {
+        "ascension1": {
+            "shellcredit": 10000,
+            "material1": "N/A",
+            "quantity1": "N/A",
+            "material2": "LF Howler Core",
+            "quantity2": 6
+        },
+        "ascension2": {
+            "shellcredit": 20000,
+            "material1": "Inert Metallic Drip",
+            "quantity1": 6,
+            "material2": "MF Howler Core",
+            "quantity2": 6
+        },
+        "ascension3": {
+            "shellcredit": 40000,
+            "material1": "Reactive Metallic Drip",
+            "quantity1": 8,
+            "material2": "HF Howler Core",
+            "quantity2": 4
+        },
+        "ascension4": {
+            "shellcredit": 60000,
+            "material1": "Polarized Metallic Drip",
+            "quantity1": 6,
+            "material2": "HF Howler Core",
+            "quantity2": 6
+        },
+        "ascension5": {
+            "shellcredit": 80000,
+            "material1": "Heterized Metallic Drip",
+            "quantity1": 6,
+            "material2": "FF Howler Core",
+            "quantity2": 4
+        },
+        "ascension6": {
+            "shellcredit": 120000,
+            "material1": "Heterized Metallic Drip",
+            "quantity1": 12,
+            "material2": "FF Howler Core",
+            "quantity2": 8
+        }
+    },
+    "releaseDate": "May 23, 2024",
+    "images": {
+        "convene": "c/c8/Winter_Brume_Sword.png/revision/latest/scale-to-width-down/1000?cb=20241208093731"
+    }
+}
