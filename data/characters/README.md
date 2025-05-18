@@ -2,5 +2,5 @@
 
 | Resonator | Missing information | Observations |
 |-----------|---------------------|--------------|
-| Zani | Trophies | Everyone has trophies except her, that's weird. Info must be missing. |
 | Ciaccona | Trophies | Adding later cause she hasn't been released yet |
+| Cartethyia | Lots of stuff | Not yet released |
