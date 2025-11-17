@@ -1,0 +1,59 @@
+{
+	"id": 1036,
+	"name": "Galbrena",
+	"title": "Infernal Descent",
+    "quote": "With this hellfire to consume them all!",
+    "rarity": 5,
+    "attribute": "Fusion",
+	"weapon": "Pistols",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Heavy Attack Damage"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "Unknown",
+	"birthPlace": "Septimont",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Septimont",
+        "Black Shores",
+        "Fabianum"
+    ],
+	"specialDish": "Super Doubleshot Shaved Ice Milkshake Deluxe",
+	"releaseDate": "October 09, 2025",
+	"va": {
+		"english": "Devora Wilde",
+		"chinese": "Zhang Wenjie",
+		"japanese": "Shōji Umeka",
+		"korean": "Lee Da-seul"
+	},
+    "trophies": [
+        {
+            "name": "One Hundred Shots",
+            "description": "Use Galbrena's Outro Skill 100 times",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "Farewell, Waking Hunter",
+            "description": "Reunite and part ways with Galbrena in the Black Shores",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Hunt Unending",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "images": {
+        "card": "9/9d/Galbrena_Card.jpg/revision/latest?cb=20251012132119",
+        "icon": "5/57/Resonator_Galbrena.png/revision/latest?cb=20251008035601",
+        "model": "f/f0/Galbrena_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20251008040416",
+        "characterSheet": "8/82/Galbrena_Character_Sheet_Alt.jpg/revision/latest/scale-to-width-down/1000?cb=20251012132222"
+    }
+}

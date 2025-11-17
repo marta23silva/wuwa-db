@@ -2,29 +2,55 @@
 	"id": 1034,
 	"name": "Cartethyia",
 	"title": "The Blessed Maiden",
-    "quote": "The truth is a beacon in the maelstrom of my life.",
+    "quote": "The crown of winds... has been engulfed by the sea. Tell me, are you the one who summoned this blade?",
     "rarity": 5,
     "attribute": "Aero",
 	"weapon": "Sword",
-    "combatRoles": {},
-    "class": "Unknown",
+    "combatRoles": {
+		"roles": [
+            "Main Damage Dealer",
+            "Aero Erosion",
+			"DMG Amplification",
+			"Traction"
+        ]
+	},
+    "class": "Congenital",
 	"gender": "Female",
 	"birthday": "Unknown",
 	"birthPlace": "Rinascita",
 	"nation": "Rinascita",
 	"affiliations": [
-        "Order of the Deep"
+        "Order of the Deep",
+		"Ragunna"
     ],
-	"specialDish": "Unknown",
-	"releaseDate": "Unknown",
+	"specialDish": "Knight-Errant's Essentials",
+	"releaseDate": "June 12, 2025",
 	"va": {
 		"english": "Amanda Rischel",
-		"chinese": "Unknown",
+		"chinese": "Yun He Zhui",
 		"japanese": "Asakawa Yū",
-		"korean": "Unknown"
+		"korean": "Bae Ha-gyoung"
 	},
-    "trophies": [],
-    "outfits": [],
+    "trophies": [
+		{
+            "name": "Becoming the Wind",
+            "description": "Use Cartethyia's Outro Skill 100 times",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "As I Open My Eyes",
+            "description": "Open your eyes and accept the \"surprise\" prepared by Cartethyia",
+            "reward": "5 astrites"
+        }
+	],
+    "outfits": [
+		{
+            "name": "Thorny Rain",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+	],
     "images": {
         "card": "d/d5/Cartethyia_Card.png/revision/latest?cb=20250509103319",
         "icon": "c/c1/Cartethyia_Icon.png/revision/latest?cb=20250507232651",

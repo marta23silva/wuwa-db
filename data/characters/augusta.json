@@ -1,0 +1,60 @@
+{
+	"id": 1035,
+	"name": "Augusta",
+	"title": "Magnetism Before Light",
+    "quote": "With the blazing sun as witness... Glory, bow before us.",
+    "rarity": 5,
+    "attribute": "Electro",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Heavy Attack Damage",
+            "DMG Amplification"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "Unknown",
+	"birthPlace": "Septimont",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Septimont",
+        "Ephor's Palace",
+        "Fabianum"
+    ],
+	"specialDish": "Sweetleaf Blooming Bread",
+	"releaseDate": "August 28, 2025",
+	"va": {
+		"english": "Alix Wilton Regan",
+		"chinese": "Mu Xueting",
+		"japanese": "Hikasa Yōko",
+		"korean": "Lee Ji-hyun"
+	},
+    "trophies": [
+        {
+            "name": "Veni, Vidi",
+            "description": "Use Augusta's Outro Skill 100 times",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "From Now Till Sunrise",
+            "description": "Spar with Augusta or tour Septimont with her",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Bearer of Legend",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "images": {
+        "card": "3/39/Augusta_Card.png/revision/latest?cb=20250730151033",
+        "icon": "a/a5/Resonator_Augusta.png/revision/latest?cb=20250827031031",
+        "model": "b/b5/Augusta_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250827031647",
+        "characterSheet": "3/39/Augusta_Character_Sheet_Alt.jpg/revision/latest/scale-to-width-down/1000?cb=20250730150417"
+    }
+}
