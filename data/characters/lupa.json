@@ -1,0 +1,67 @@
+{
+	"id": 1034,
+	"name": "Lupa",
+	"title": "Howling Flame",
+    "quote": "Oh, is a new match calling?",
+    "rarity": 5,
+    "attribute": "Fusion",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Resonance Liberation Damage",
+            "Fusion DMG Amplification",
+            "Basic Attack DMG Amplification"
+        ]
+    },
+    "class": "Non-congenital",
+	"gender": "Female",
+	"birthPlace": "Septimont",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Septimont",
+        "House Silva"
+    ],
+	"specialDish": "Heartpour",
+	"releaseDate": "July 03, 2025",
+	"va": {
+		"english": "Kaja Chan",
+		"chinese": "Shuo Xiaotu",
+		"japanese": "Takahashi Minami",
+		"korean": "Kim Ye-ryeong"
+	},
+    "trophies": [
+        {
+            "name": "Becoming the Wind",
+            "group": "Resonance of Battle",
+            "description": "Use Lupa's Outro Skill 100 times",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "Where Lone Wolf Resides",
+            "group": "Moments with You",
+            "description": "Meet Lupa in the arena and talk to her",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "Endorsment Fulfilled",
+            "group": "Moments with You",
+            "description": "Cook the Septimont beverage endorsed by Lupa with Lupa herself",
+            "reward": "10 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Wildfire",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "images": {
+        "card": "e/e4/Lupa_Card.png/revision/latest/scale-to-width-down/1000?cb=20250509103359",
+        "icon": "d/d1/Resonator_Lupa.png/revision/latest?cb=20250610083417",
+        "model": "1/12/Lupa_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250705033445",
+        "characterSheet": "2/28/Lupa_Character_Sheet_Alt.jpg/revision/latest/scale-to-width-down/1000?cb=20250509103519"
+    }
+}

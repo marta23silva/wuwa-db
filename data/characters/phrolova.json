@@ -1,0 +1,54 @@
+{
+	"id": 1036,
+	"name": "Phrolova",
+	"title": "Symphony of Beyond",
+    "quote": "Come, let us finish this performance we've all been waiting for. Together.",
+    "rarity": 5,
+    "attribute": "Havoc",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": [
+            "Main Damage Dealer",
+            "Resonance Skill Damage",
+            "Havoc DMG Amplification",
+            "Heavy Attack DMG Amplification"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthPlace": "Ostina",
+	"nation": "Ostina",
+	"affiliations": [
+        "Fractsidus"
+    ],
+	"specialDish": "Redcurrant Tart",
+	"releaseDate": "July 24, 2025",
+	"va": {
+		"english": "Rae Lim",
+		"chinese": "Zhang Qi",
+		"japanese": "Fujita Saki",
+		"korean": "Choi Hari"
+	},
+    "trophies": [
+        {
+            "name": "A Show With No Final Act",
+            "group": "Resonance of Battle",
+            "description": "Use Phrolova's Outro Skill 100 times",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "From the Beyond",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "images": {
+        "card": "0/0b/Phrolova_Card.png/revision/latest?cb=20250621131505",
+        "icon": "a/a2/Resonator_Phrolova.png/revision/latest?cb=20250727105200",
+        "model": "3/32/Phrolova_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250724030941",
+        "characterSheet": "9/9b/Phrolova_Character_Sheet_Alt.png/revision/latest/scale-to-width-down/1000?cb=20250620122409"
+    }
+}

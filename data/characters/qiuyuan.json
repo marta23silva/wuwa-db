@@ -1,0 +1,55 @@
+{
+	"id": 1040,
+	"name": "Qiuyuan",
+	"title": "Bambooscape",
+    "quote": "Name the target. I'll take care of the rest.",
+    "rarity": 5,
+    "attribute": "Aero",
+	"weapon": "Sword",
+    "combatRoles": {
+        "roles": [
+            "Concerto Efficiency",
+            "Heavy Attack Damage",
+            "Echo Skill DMG Amplification"
+        ]
+    },
+    "class": "Unclear",
+	"gender": "Male",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Mingting",
+        "Chongzhou",
+        "Internal Security Agency"
+    ],
+	"specialDish": "Chongzhou Spicy Tofu",
+	"releaseDate": "October 30, 2025",
+	"va": {
+		"english": "Jeremy Ang Jones",
+		"chinese": "Gan Ziqi",
+		"japanese": "Miki Shinichirō",
+		"korean": "Kim Min-ju"
+	},
+    "trophies": [
+        {
+            "name": "Blind Watcher",
+            "group": "Resonance of Battle",
+            "description": "Use Qiuyuan's Outro Skill 100 times",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Lone Drifter",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "images": {
+        "card": "1/17/Qiuyuan_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20251015202744",
+        "icon": "d/da/Resonator_Qiuyuan.png/revision/latest?cb=20251008035512",
+        "model": "1/14/Qiuyuan_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20251008040539",
+        "characterSheet": "8/85/Qiuyuan_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20250905175606"
+    }
+}
