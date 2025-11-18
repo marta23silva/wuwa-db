@@ -1,0 +1,36 @@
+{
+	"id": 1042,
+	"name": "Buling",
+	"title": "Divine Hearing",
+    "quote": "Exorcism, talisman divination, fortune-telling... you name it, I 'bling' it!",
+    "rarity": 4,
+    "attribute": "Electro",
+	"weapon": "Rectifier",
+    "combatRoles": {
+        "roles": []
+    },
+    "class": "Unknown",
+	"gender": "Female",
+	"birthPlace": "Huanglong",
+	"nation": "Huanglong",
+	"affiliations": [
+        "Black Shores",
+        "Mengzhou"
+    ],
+	"specialDish": "Unknown",
+	"releaseDate": "December 11, 2025",
+	"va": {
+		"english": "Elizabeth Chu",
+		"chinese": "Unknown",
+		"japanese": "Senbongi Sayaka",
+		"korean": "Unknown"
+	},
+    "trophies": [],
+    "outfits": [],
+    "images": {
+        "card": "5/58/Buling_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20251017122754",
+        "icon": "7/70/Resonator_Buling.png/revision/latest?cb=20251018043729",
+        "model": "1/11/Buling_Full_Sprite.png/revision/latest?cb=20251114181312",
+        "characterSheet": "---"
+    }
+}

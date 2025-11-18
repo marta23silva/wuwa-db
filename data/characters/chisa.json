@@ -1,0 +1,40 @@
+{
+	"id": 1041,
+	"name": "Chisa",
+	"title": "Eye of Unravelling",
+    "quote": "I will... sever this deadlock.",
+    "rarity": 5,
+    "attribute": "Havoc",
+	"weapon": "Broadblade",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Resonance Liberation Damage",
+            "Havoc Bane"
+        ]
+    },
+    "class": "Mutant",
+	"gender": "Female",
+	"birthPlace": "Unknown",
+	"nation": "Unknown",
+	"affiliations": [
+        "Startorch Academy"
+    ],
+	"specialDish": "Unknown",
+	"releaseDate": "November 20, 2025",
+	"va": {
+		"english": "Leader Looi",
+		"chinese": "Zhao Lingze",
+		"japanese": "Kanemoto Hisako",
+		"korean": "Lee Joo-eun"
+	},
+    "trophies": [],
+    "outfits": [],
+    "images": {
+        "card": "c/ca/Chisa_Card.jpg/revision/latest/scale-to-width-down/1000?cb=20251017123133",
+        "icon": "d/d7/Resonator_Chisa.png/revision/latest?cb=20251018043830",
+        "model": "8/8a/Chisa_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20251118043547",
+        "characterSheet": "7/79/Chisa_Character_Sheet_Alt.jpg/revision/latest/scale-to-width-down/1000?cb=20251017192315",
+        "characterSheet_alt": "6/69/Chisa_Character_Sheet.jpg/revision/latest/scale-to-width-down/1000?cb=20251017192215"
+    }
+}
