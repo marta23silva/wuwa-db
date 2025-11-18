@@ -9,6 +9,7 @@
 | Qiuyuan |  |  |
 
 <h2 align="center">Characters List</h2>
+
 | ID | Character name |
 |----|----------------|
 | 1001 | Aalto |
