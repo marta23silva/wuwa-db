@@ -1,0 +1,60 @@
+{
+	"id": 1036,
+	"name": "Iuno",
+	"title": "Stasis, Cycle, Renewal",
+    "quote": "Beyond myself. Beyond every written start and end of the story. Till we rewrite our fate.",
+    "rarity": 5,
+    "attribute": "Aero",
+	"weapon": "Gauntlets",
+    "combatRoles": {
+        "roles": [
+            "Support and Healer",
+            "Concerto Efficiency",
+            "Resonance Liberation Damage",
+            "Heavy Attack DMG Amplification"
+        ]
+    },
+    "class": "Congenital",
+	"gender": "Female",
+	"birthday": "Unknown",
+	"birthPlace": "Septimont",
+	"nation": "Rinascita",
+	"affiliations": [
+        "Septimont",
+        "Tetragon Temple"
+    ],
+	"specialDish": "Sweetened Olives",
+	"releaseDate": "September 17, 2025",
+	"va": {
+		"english": "Ella Boyes",
+		"chinese": "Jiang Yingjun",
+		"japanese": "Lynn",
+		"korean": "Yoon Eun-seo"
+	},
+    "trophies": [
+        {
+            "name": "Silver Beams Silently Pour",
+            "description": "Perform Iuno's Outro Skill 100 times",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "When the Sky is the Color of Your Eyes",
+            "description": "Head to the edge of a moonlit evening and savor the moon with Iuno",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "The Unmeasured One",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
+    "images": {
+        "card": "1/1f/Iuno_Card.png/revision/latest?cb=20250730151112",
+        "icon": "8/8c/Resonator_Iuno.png/revision/latest?cb=20250827031142",
+        "model": "2/20/Iuno_Full_Sprite.png/revision/latest/scale-to-width-down/1000?cb=20250909182139",
+        "characterSheet": "0/01/Iuno_Character_Sheet_Alt.jpg/revision/latest/scale-to-width-down/1000?cb=20250730150406"
+    }
+}

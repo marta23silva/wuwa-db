@@ -2,7 +2,7 @@
 	"id": 1010,
 	"name": "Ciaccona",
 	"title": "Woven Melodies",
-    "quote": "Off we go! May my poems light the way on your path ahead!",
+    "quote": "Hear that? A twinkling star just tinkled to the ground!",
     "rarity": 5,
     "attribute": "Aero",
 	"weapon": "Pistols",
@@ -13,7 +13,7 @@
             "Aero Erosion"
         ]
     },
-    "class": "Unknown",
+    "class": "Unclear",
 	"gender": "Female",
 	"birthday": "Unknown",
 	"birthPlace": "Rinascita",
@@ -29,8 +29,26 @@
 		"japanese": "Hasegawa Ikumi",
 		"korean": "Kim Ye-rim"
 	},
-    "trophies": [],
-    "outfits": [],
+    "trophies": [
+        {
+            "name": "Diminuendo, Diminuendo, Diminuendo",
+            "description": "Perform Ciacciona's Outro Skill 100 times",
+            "reward": "5 astrites"
+        },
+        {
+            "name": "Music in the Summer Wind",
+            "description": "Listen to music with Ciaccona",
+            "reward": "5 astrites"
+        }
+    ],
+    "outfits": [
+        {
+            "name": "Songs of Seasons",
+            "rarity": 3,
+            "type": "Original",
+            "obtain": "Unlocked upon obtaining Resonator"
+        }
+    ],
     "images": {
         "card": "6/68/Ciaccona_Card.png/revision/latest/scale-to-width-down/1000?cb=20250403171349",
         "icon": "e/e9/Ciaccona_Icon.png/revision/latest?cb=20250403190812",
